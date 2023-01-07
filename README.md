@@ -8,6 +8,7 @@ Helpful links, resources, tips and tricks on coding
 ### Carousel Component to use in React, Next.js
 
 - [<code>react-elastic-carousel</code>](https://sag1v.github.io/react-elastic-carousel/)
+- [YouTube Tutorial](https://youtu.be/c0nKjMnDfG4)
 
 ### Infinite Scroll to use in React, Next.js
 
