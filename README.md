@@ -11,6 +11,14 @@ Helpful links, resources, tips and tricks on coding
 
 - [How to Prevent Merge Conflicts (or at least have less of them)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 
+## HTML
+
+- [How to make <code>input type="file" /</code> accept only these types?](https://stackoverflow.com/questions/17293861/how-to-make-input-type-file-accept-only-these-types)
+
+## Node.js
+
+- [Path must be absolute or specify root to <code>res.sendFile</code> [failed to parse JSON]](https://stackoverflow.com/questions/26079611/node-js-typeerror-path-must-be-absolute-or-specify-root-to-res-sendfile-failed)
+
 ## Packages
 
 ### Carousel Component 1 to use in React, Next.js
