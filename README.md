@@ -10,6 +10,7 @@ Helpful links, resources, tips and tricks on coding
 ## Git/GitHub
 
 - [How to Prevent Merge Conflicts (or at least have less of them)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
+- [How to remove node_modules folder](https://gist.github.com/lmcneel/45594e550a3403d589bdcaad38138a83)
 
 ## HTML
 
@@ -33,6 +34,10 @@ Helpful links, resources, tips and tricks on coding
 ### Infinite Scroll to use in React, Next.js
 
 - [<code>react-infinite-scroll-component</code>](https://www.npmjs.com/package/react-infinite-scroll-component)
+
+### Puppeteer - Web Scraping
+
+- [<code>puppeteer</code>](https://www.npmjs.com/package/puppeteer)
 
 ## VS Code
 
