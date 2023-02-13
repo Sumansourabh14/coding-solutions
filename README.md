@@ -11,6 +11,7 @@ Helpful links, resources, tips and tricks on coding
 
 - [How to Prevent Merge Conflicts (or at least have less of them)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 - [How to remove node_modules folder](https://gist.github.com/lmcneel/45594e550a3403d589bdcaad38138a83)
+- [What "Remote Origin Already Exists" Error Means and How To Fix It](https://www.cloudbees.com/blog/remote-origin-already-exists-error)
 
 ## HTML
 
