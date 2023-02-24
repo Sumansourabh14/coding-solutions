@@ -49,3 +49,4 @@ Helpful links, resources, tips and tricks on coding
 ## VS Code
 
 - [Remove/delete unused imports and declarations: Press <code>Alt + Shift + O</code> (Windows)](https://stackoverflow.com/questions/46722701/is-there-a-way-to-remove-unused-imports-and-declarations-from-angular-2)
+- [Prettier formatter on save not working](https://stackoverflow.com/questions/59433286/vs-code-prettier-format-on-save-doesnt-work)
