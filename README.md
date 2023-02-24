@@ -32,6 +32,12 @@ Helpful links, resources, tips and tricks on coding
 - [<code>react-elastic-carousel</code>](https://sag1v.github.io/react-elastic-carousel/)
 - [YouTube Tutorial](https://youtu.be/c0nKjMnDfG4)
 
+### Carousel Component to use in React Native
+
+- [FlatList](https://reactnative.dev/docs/flatlist)
+- [FlatList - YouTube Tutorial 1](https://youtu.be/r2NJJye0XnM)
+- [FlatList - YouTube Tutorial 2](https://youtu.be/Efy48Uoa4RM)
+
 ### Infinite Scroll to use in React, Next.js
 
 - [<code>react-infinite-scroll-component</code>](https://www.npmjs.com/package/react-infinite-scroll-component)
