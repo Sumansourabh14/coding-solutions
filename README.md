@@ -1,6 +1,10 @@
 # Coding Solutions
 Helpful links, resources, tips and tricks on coding
 
+## Android Studio (Emulator)
+
+- ['adb' is not recognized as an internal or external command, operable program or batch file](https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or)
+
 ## CSS
 
 - [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
