@@ -54,6 +54,11 @@ Helpful links, resources, tips and tricks on coding
 
 - [<code>puppeteer</code>](https://www.npmjs.com/package/puppeteer)
 
+## React Native
+
+- [Scroll View inside view not working react native](https://stackoverflow.com/questions/38137388/scroll-view-inside-view-not-working-react-native)
+- [Applying box shadows in React Native](https://blog.logrocket.com/applying-box-shadows-in-react-native/)
+
 ## VS Code
 
 - [Remove/delete unused imports and declarations: Press <code>Alt + Shift + O</code> (Windows)](https://stackoverflow.com/questions/46722701/is-there-a-way-to-remove-unused-imports-and-declarations-from-angular-2)
