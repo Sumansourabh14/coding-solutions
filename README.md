@@ -24,6 +24,7 @@ Helpful links, resources, tips and tricks on coding
 ## JavaScript
 
 - [Convert a string to a number in JavaScript](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/)
+- [Map only a portion of an array? (Array.map())](https://stackoverflow.com/questions/39455224/is-it-possible-to-map-only-a-portion-of-an-array-array-map)
 
 ## Node.js
 
@@ -58,6 +59,8 @@ Helpful links, resources, tips and tricks on coding
 
 - [Scroll View inside view not working react native](https://stackoverflow.com/questions/38137388/scroll-view-inside-view-not-working-react-native)
 - [Applying box shadows in React Native](https://blog.logrocket.com/applying-box-shadows-in-react-native/)
+- [How to get a versionName in react-native app on Android?](https://stackoverflow.com/questions/38240859/how-to-get-a-versionname-in-react-native-app-on-android)
+- [How to display a Hyperlink in React Native App?](https://stackoverflow.com/questions/30540252/how-does-one-display-a-hyperlink-in-react-native-app)
 
 ## VS Code
 
