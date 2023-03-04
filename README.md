@@ -61,6 +61,7 @@ Helpful links, resources, tips and tricks on coding
 - [Applying box shadows in React Native](https://blog.logrocket.com/applying-box-shadows-in-react-native/)
 - [How to get a versionName in react-native app on Android?](https://stackoverflow.com/questions/38240859/how-to-get-a-versionname-in-react-native-app-on-android)
 - [How to display a Hyperlink in React Native App?](https://stackoverflow.com/questions/30540252/how-does-one-display-a-hyperlink-in-react-native-app)
+- [Displaying external SVG image from URL in react native](https://stackoverflow.com/questions/56219501/displaying-external-svg-image-from-url-in-react-native)
 
 ## VS Code
 
