@@ -10,6 +10,7 @@ Helpful links, resources, tips and tricks on coding
 - [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
 - [Media Queries - In between two widths](https://stackoverflow.com/questions/14008781/media-queries-in-between-two-widths)
 - [Rollover one element, and make another element visible](https://stackoverflow.com/questions/2776109/css-rollover-one-element-and-make-another-element-visible)
+- [Inverted Border Radius of View in React Native (General CSS Question)](https://stackoverflow.com/questions/59082031/inverted-border-radius-of-view-in-react-native)
 
 ## Git/GitHub
 
