@@ -1,5 +1,5 @@
 # Coding Solutions
-Helpful links, resources, tips and tricks on coding
+Helpful links and solutions to various coding problems that I come across during day to day coding.
 
 ## Android Studio (Emulator)
 
