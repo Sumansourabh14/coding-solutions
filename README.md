@@ -65,6 +65,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Displaying external SVG image from URL in react native](https://stackoverflow.com/questions/56219501/displaying-external-svg-image-from-url-in-react-native)
 - [How to Fix ‘VirtualizedLists should never be nested inside plain ScrollViews’ Warning?](https://javascript.plainenglish.io/how-to-fix-virtualizedlists-should-never-be-nested-inside-plain-scrollviews-warning-3a2a887b4ea0)
 - [Animated: `useNativeDriver` was not specified. This is a required option and must be explicitly set to `true` or `false` (Related to SideMenu component)](https://github.com/Kureev/react-native-side-menu/issues/387)
+- [How to solve lagging drawer problem](https://engineering.classpro.in/react-native-how-settimout-saved-my-life-803346bf18a5)
+- [Optimizing list render performance in React Native](https://www.matthewsessions.com/blog/optimizing-list-render-performance)
 
 ### Packages for React Native
 
