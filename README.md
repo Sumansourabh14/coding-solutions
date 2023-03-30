@@ -66,6 +66,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Fix ‘VirtualizedLists should never be nested inside plain ScrollViews’ Warning?](https://javascript.plainenglish.io/how-to-fix-virtualizedlists-should-never-be-nested-inside-plain-scrollviews-warning-3a2a887b4ea0)
 - [Animated: `useNativeDriver` was not specified. This is a required option and must be explicitly set to `true` or `false` (Related to SideMenu component)](https://github.com/Kureev/react-native-side-menu/issues/387)
 
+### Packages for React Native
+
+- [react-native-drawer](https://github.com/root-two/react-native-drawer)
+
 ## VS Code
 
 - [Remove/delete unused imports and declarations: Press <code>Alt + Shift + O</code> (Windows)](https://stackoverflow.com/questions/46722701/is-there-a-way-to-remove-unused-imports-and-declarations-from-angular-2)
