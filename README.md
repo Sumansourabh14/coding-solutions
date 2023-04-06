@@ -27,6 +27,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [Convert a string to a number in JavaScript](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/)
 - [Map only a portion of an array? (Array.map())](https://stackoverflow.com/questions/39455224/is-it-possible-to-map-only-a-portion-of-an-array-array-map)
 
+## Material UI (MUI)
+
+- [How to remove lines between cells in MUI Table](https://stackoverflow.com/questions/57325232/how-to-remove-lines-between-cells-in-mui-table)
+
 ## Next.js
 
 - [How to pass query parameters from useRouter()](https://stackoverflow.com/questions/55182529/next-js-router-push-with-state)
