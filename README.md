@@ -61,6 +61,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [<code>puppeteer</code>](https://www.npmjs.com/package/puppeteer)
 
+## React
+
+- [React class in global.css is undefined](https://stackoverflow.com/questions/55561983/css-modules-class-names-undefined)
+
 ## React Native
 
 - [Scroll View inside view not working react native](https://stackoverflow.com/questions/38137388/scroll-view-inside-view-not-working-react-native)
