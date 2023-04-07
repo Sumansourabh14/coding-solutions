@@ -68,6 +68,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## React
 
 - [React class in global.css is undefined](https://stackoverflow.com/questions/55561983/css-modules-class-names-undefined)
+- [How to use SVGs in React](https://blog.logrocket.com/how-to-use-svgs-react/#injecting-svg-dom-react-svg)
 
 ## React Native
 
