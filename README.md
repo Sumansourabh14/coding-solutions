@@ -22,6 +22,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## HTML
 
 - [How to make <code>input type="file" /</code> accept only these types?](https://stackoverflow.com/questions/17293861/how-to-make-input-type-file-accept-only-these-types)
+- [Prevent div from taking 100% width](https://stackoverflow.com/questions/3794770/prevent-divs-from-taking-100-width)
 
 ## JavaScript
 
