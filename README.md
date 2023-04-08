@@ -37,8 +37,9 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [How to pass query parameters from useRouter()](https://stackoverflow.com/questions/55182529/next-js-router-push-with-state)
 
-## Node.js
+## Node.js/Express
 
+- [Error: Cannot find module 'ejs'](https://stackoverflow.com/questions/7754799/error-cannot-find-module-ejs)
 - [Path must be absolute or specify root to <code>res.sendFile</code> [failed to parse JSON]](https://stackoverflow.com/questions/26079611/node-js-typeerror-path-must-be-absolute-or-specify-root-to-res-sendfile-failed)
 - [<code>nodemon</code> command is not recognized in terminal for node js server](https://stackoverflow.com/questions/40359590/nodemon-command-is-not-recognized-in-terminal-for-node-js-server)
 
