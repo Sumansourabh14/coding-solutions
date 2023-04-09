@@ -33,6 +33,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [How to remove lines between cells in MUI Table](https://stackoverflow.com/questions/57325232/how-to-remove-lines-between-cells-in-mui-table)
 
+## MongoDB
+
+- [Error : "Could not connect to any servers in your MongoDB Atlas cluster"](https://stackoverflow.com/questions/61937581/error-could-not-connect-to-any-servers-in-your-mongodb-atlas-cluster)
+
 ## Next.js
 
 - [How to pass query parameters from useRouter()](https://stackoverflow.com/questions/55182529/next-js-router-push-with-state)
