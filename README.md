@@ -12,6 +12,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Rollover one element, and make another element visible](https://stackoverflow.com/questions/2776109/css-rollover-one-element-and-make-another-element-visible)
 - [Inverted Border Radius of View in React Native (General CSS Question)](https://stackoverflow.com/questions/59082031/inverted-border-radius-of-view-in-react-native)
 - [Convert rem to px (Online tool)](https://nekocalc.com/px-to-rem-converter)
+- [Check browser window size](https://www.rapidtables.com/web/tools/window-size.html)
 
 ## Git/GitHub
 
