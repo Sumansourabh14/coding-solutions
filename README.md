@@ -48,6 +48,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Path must be absolute or specify root to <code>res.sendFile</code> [failed to parse JSON]](https://stackoverflow.com/questions/26079611/node-js-typeerror-path-must-be-absolute-or-specify-root-to-res-sendfile-failed)
 - [<code>nodemon</code> command is not recognized in terminal for node js server](https://stackoverflow.com/questions/40359590/nodemon-command-is-not-recognized-in-terminal-for-node-js-server)
 - [<code>req.cookies</code> is undefined](https://stackoverflow.com/questions/41720801/why-is-req-cookies-undefined)
+- [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
 
 ## Packages
 
