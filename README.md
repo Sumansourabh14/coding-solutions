@@ -49,6 +49,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [<code>nodemon</code> command is not recognized in terminal for node js server](https://stackoverflow.com/questions/40359590/nodemon-command-is-not-recognized-in-terminal-for-node-js-server)
 - [<code>req.cookies</code> is undefined](https://stackoverflow.com/questions/41720801/why-is-req-cookies-undefined)
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
+- [SyntaxError: Unexpected token 'export'](https://stackoverflow.com/questions/38296667/getting-unexpected-token-export)
+- [TypeError: Cannot destructure property 'userId' of 'req.body' as it is undefined](https://stackoverflow.com/questions/62455716/typeerror-cannot-destructure-property-userid-of-req-body-as-it-is-undefined)
 
 ## Packages
 
