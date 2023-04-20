@@ -33,6 +33,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## Material UI (MUI)
 
 - [How to remove lines between cells in MUI Table](https://stackoverflow.com/questions/57325232/how-to-remove-lines-between-cells-in-mui-table)
+- [When should I use style instead of sx prop in Material-UI?](https://stackoverflow.com/questions/72527461/when-should-i-use-style-instead-of-sx-prop-in-material-ui#:~:text=sx%20prop%20works%20only%20on,some%20cases%20as%20explained%20below.)
 
 ## MongoDB
 
@@ -51,6 +52,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
 - [SyntaxError: Unexpected token 'export'](https://stackoverflow.com/questions/38296667/getting-unexpected-token-export)
 - [TypeError: Cannot destructure property 'userId' of 'req.body' as it is undefined](https://stackoverflow.com/questions/62455716/typeerror-cannot-destructure-property-userid-of-req-body-as-it-is-undefined)
+- [What is the Difference Between GET and POST Methods?](https://www.baeldung.com/cs/http-get-vs-post#:~:text=GET%20requests%20are%20intended%20to,may%20modify%20the%20server's%20state.)
 
 ## Packages
 
@@ -62,6 +64,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [<code>react-elastic-carousel</code>](https://sag1v.github.io/react-elastic-carousel/)
 - [YouTube Tutorial](https://youtu.be/c0nKjMnDfG4)
+- [Infinite looping of children - As the carousel ends, how to bring it back to the first element?](https://github.com/sag1v/react-elastic-carousel/issues/9)
 
 ### Carousel Component to use in React Native
 
