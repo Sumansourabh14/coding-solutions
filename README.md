@@ -34,6 +34,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [How to remove lines between cells in MUI Table](https://stackoverflow.com/questions/57325232/how-to-remove-lines-between-cells-in-mui-table)
 - [When should I use style instead of sx prop in Material-UI?](https://stackoverflow.com/questions/72527461/when-should-i-use-style-instead-of-sx-prop-in-material-ui#:~:text=sx%20prop%20works%20only%20on,some%20cases%20as%20explained%20below.)
+- [Warning: Failed prop type: Invalid prop `children` supplied to `ForwardRef(Tooltip)`. Expected an element that can hold a ref. Did you accidentally use a plain function component for an element instead?](https://stackoverflow.com/questions/56347839/material-ui-v4-0-1-warning-expected-an-element-that-can-hold-a-ref)
 
 ## MongoDB
 
