@@ -57,6 +57,9 @@ Helpful links and solutions to various coding problems that I come across during
 
 ## Packages
 
+- [How to add a dev dependency using yarn?](https://onecompiler.com/questions/3wbdphp75/how-to-add-a-dev-dependency-using-yarn)
+  - Answer: <code>yarn add nodemon -D</code>
+
 ### Carousel Component 1 to use in React, Next.js
 
 - [<code>react-horizontal-scrolling-menu</code>](https://github.com/asmyshlyaev177/react-horizontal-scrolling-menu)
