@@ -13,6 +13,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Inverted Border Radius of View in React Native (General CSS Question)](https://stackoverflow.com/questions/59082031/inverted-border-radius-of-view-in-react-native)
 - [Convert rem to px (Online tool)](https://nekocalc.com/px-to-rem-converter)
 - [Check browser window size](https://www.rapidtables.com/web/tools/window-size.html)
+- [Navbar with background blur](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
 
 ## Git/GitHub
 
