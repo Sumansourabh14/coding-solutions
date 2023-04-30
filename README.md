@@ -24,7 +24,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [How to make <code>input type="file" /</code> accept only these types?](https://stackoverflow.com/questions/17293861/how-to-make-input-type-file-accept-only-these-types)
 - [Prevent div from taking 100% width](https://stackoverflow.com/questions/3794770/prevent-divs-from-taking-100-width)
-- [h1 to next line html (line break/<code><br/></code> tag)](https://stackoverflow.com/questions/6846448/two-lines-in-h1-tag)
+- [h1 to next line html (line break/br tag)](https://stackoverflow.com/questions/6846448/two-lines-in-h1-tag)
 
 ## JavaScript
 
@@ -46,6 +46,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to pass query parameters from useRouter()](https://stackoverflow.com/questions/55182529/next-js-router-push-with-state)
 - [How to create-next-app using version 12 instead of version 13](https://stackoverflow.com/questions/75470624/how-to-create-next-app-using-version-12-instead-of-version-13)
 - [The default export is not a React Component in page: "/" NextJS](https://stackoverflow.com/questions/59873698/the-default-export-is-not-a-react-component-in-page-nextjs)
+- [Built-in CSS support (global.css in Next.js)](https://nextjs.org/docs/basic-features/built-in-css-support)
 
 ## Node.js/Express
 
