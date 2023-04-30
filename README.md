@@ -24,6 +24,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [How to make <code>input type="file" /</code> accept only these types?](https://stackoverflow.com/questions/17293861/how-to-make-input-type-file-accept-only-these-types)
 - [Prevent div from taking 100% width](https://stackoverflow.com/questions/3794770/prevent-divs-from-taking-100-width)
+- [h1 to next line html (line break/<code><br/></code> tag)](https://stackoverflow.com/questions/6846448/two-lines-in-h1-tag)
 
 ## JavaScript
 
@@ -93,6 +94,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [React class in global.css is undefined](https://stackoverflow.com/questions/55561983/css-modules-class-names-undefined)
 - [How to use SVGs in React](https://blog.logrocket.com/how-to-use-svgs-react/#injecting-svg-dom-react-svg)
+- [Uncaught Error: The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.](https://stackoverflow.com/questions/43366026/react-inline-style-style-prop-expects-a-mapping-from-style-properties-to-value)
 
 ## React Native
 
