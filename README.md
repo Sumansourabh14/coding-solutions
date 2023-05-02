@@ -60,6 +60,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [SyntaxError: Unexpected token 'export'](https://stackoverflow.com/questions/38296667/getting-unexpected-token-export)
 - [TypeError: Cannot destructure property 'userId' of 'req.body' as it is undefined](https://stackoverflow.com/questions/62455716/typeerror-cannot-destructure-property-userid-of-req-body-as-it-is-undefined)
 - [What is the Difference Between GET and POST Methods?](https://www.baeldung.com/cs/http-get-vs-post#:~:text=GET%20requests%20are%20intended%20to,may%20modify%20the%20server's%20state.)
+- [How To Use EJS to Template Your Node Application?](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
+- [Getting form data in node js:undefined error while submitting form](https://stackoverflow.com/questions/30780254/getting-form-data-in-node-jsundefined-error-while-submitting-form)
 
 ## Packages
 
