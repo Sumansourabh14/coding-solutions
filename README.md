@@ -38,6 +38,9 @@ Helpful links and solutions to various coding problems that I come across during
 - [When should I use style instead of sx prop in Material-UI?](https://stackoverflow.com/questions/72527461/when-should-i-use-style-instead-of-sx-prop-in-material-ui#:~:text=sx%20prop%20works%20only%20on,some%20cases%20as%20explained%20below.)
 - [Warning: Failed prop type: Invalid prop `children` supplied to `ForwardRef(Tooltip)`. Expected an element that can hold a ref. Did you accidentally use a plain function component for an element instead?](https://stackoverflow.com/questions/56347839/material-ui-v4-0-1-warning-expected-an-element-that-can-hold-a-ref)
 - [Importing a MaterialUI theme from another file correctly (adding dark mode support with createTheme())](https://stackoverflow.com/questions/67655896/importing-a-materialui-theme-from-another-file-correctly)
+- [Change TextField font color in MUI](https://stackoverflow.com/questions/50228108/change-textfield-font-color-in-mui)
+- [How to remove border in textfield fieldset in material ui?](https://stackoverflow.com/questions/65161428/how-to-remove-border-in-textfield-fieldset-in-material-ui)
+- [Material UI Textfield Can't Change Font Size for Multiline](https://stackoverflow.com/questions/54872035/material-ui-textfield-cant-change-font-size-for-multiline)
 
 ## MongoDB
 
