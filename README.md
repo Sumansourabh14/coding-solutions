@@ -42,6 +42,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to remove border in textfield fieldset in material ui?](https://stackoverflow.com/questions/65161428/how-to-remove-border-in-textfield-fieldset-in-material-ui)
 - [Material UI Textfield Can't Change Font Size for Multiline](https://stackoverflow.com/questions/54872035/material-ui-textfield-cant-change-font-size-for-multiline)
 - [MUI Divider Thickness/changing width or height](https://stackoverflow.com/questions/69682476/mui-divider-thickness)
+- [How can I center-align Material-ui TextField text?](https://stackoverflow.com/questions/56500234/how-can-i-center-align-material-ui-textfield-text-and-also-set-a-min-number-valu)
 
 ## MongoDB
 
