@@ -41,6 +41,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Change TextField font color in MUI](https://stackoverflow.com/questions/50228108/change-textfield-font-color-in-mui)
 - [How to remove border in textfield fieldset in material ui?](https://stackoverflow.com/questions/65161428/how-to-remove-border-in-textfield-fieldset-in-material-ui)
 - [Material UI Textfield Can't Change Font Size for Multiline](https://stackoverflow.com/questions/54872035/material-ui-textfield-cant-change-font-size-for-multiline)
+- [MUI Divider Thickness/changing width or height](https://stackoverflow.com/questions/69682476/mui-divider-thickness)
 
 ## MongoDB
 
