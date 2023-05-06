@@ -54,6 +54,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to create-next-app using version 12 instead of version 13](https://stackoverflow.com/questions/75470624/how-to-create-next-app-using-version-12-instead-of-version-13)
 - [The default export is not a React Component in page: "/" NextJS](https://stackoverflow.com/questions/59873698/the-default-export-is-not-a-react-component-in-page-nextjs)
 - [Built-in CSS support (global.css in Next.js)](https://nextjs.org/docs/basic-features/built-in-css-support)
+- [How to Set port in next.js? (In package.json and via terminal - Yarn](https://stackoverflow.com/questions/60147499/how-to-set-port-in-next-js)
 
 ## Node.js/Express
 
