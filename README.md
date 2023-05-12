@@ -55,6 +55,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [The default export is not a React Component in page: "/" NextJS](https://stackoverflow.com/questions/59873698/the-default-export-is-not-a-react-component-in-page-nextjs)
 - [Built-in CSS support (global.css in Next.js)](https://nextjs.org/docs/basic-features/built-in-css-support)
 - [How to Set port in next.js? (In package.json and via terminal - Yarn](https://stackoverflow.com/questions/60147499/how-to-set-port-in-next-js)
+- [Server Error ReferenceError: window is not defined node_modules/webfontloader/webfontloader.js](https://github.com/typekit/webfontloader/issues/383)
 
 ## Node.js/Express
 
