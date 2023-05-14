@@ -56,6 +56,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Built-in CSS support (global.css in Next.js)](https://nextjs.org/docs/basic-features/built-in-css-support)
 - [How to Set port in next.js? (In package.json and via terminal - Yarn](https://stackoverflow.com/questions/60147499/how-to-set-port-in-next-js)
 - [Server Error ReferenceError: window is not defined node_modules/webfontloader/webfontloader.js](https://github.com/typekit/webfontloader/issues/383)
+- [Server Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined](https://forum.moralis.io/t/server-error-error-element-type-is-invalid-expected-a-string-for-built-in-components-or-a-class-function-for-composite-components-but-got-undefined/13379)
 
 ## Node.js/Express
 
