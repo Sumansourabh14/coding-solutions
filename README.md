@@ -108,6 +108,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [<code>react-beautiful-dnd</code>](https://github.com/atlassian/react-beautiful-dnd)
 
+### uuid (For generating unique id)
+
+- [<code>uuid</code>](https://www.npmjs.com/package/uuid)
+
 ## React
 
 - [React class in global.css is undefined](https://stackoverflow.com/questions/55561983/css-modules-class-names-undefined)
