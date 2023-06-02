@@ -131,6 +131,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Animated: `useNativeDriver` was not specified. This is a required option and must be explicitly set to `true` or `false` (Related to SideMenu component)](https://github.com/Kureev/react-native-side-menu/issues/387)
 - [How to solve lagging drawer problem](https://engineering.classpro.in/react-native-how-settimout-saved-my-life-803346bf18a5)
 - [Optimizing list render performance in React Native](https://www.matthewsessions.com/blog/optimizing-list-render-performance)
+- [Excessive number of pending callbacks: 501 (TouchableOpacity issue)](https://github.com/facebook/react-native/issues/27483)
 
 ### Packages for React Native
 
