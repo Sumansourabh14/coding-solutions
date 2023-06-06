@@ -133,6 +133,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to solve lagging drawer problem](https://engineering.classpro.in/react-native-how-settimout-saved-my-life-803346bf18a5)
 - [Optimizing list render performance in React Native](https://www.matthewsessions.com/blog/optimizing-list-render-performance)
 - [Excessive number of pending callbacks: 501 (TouchableOpacity issue)](https://github.com/facebook/react-native/issues/27483)
+- [Invariant Violation: requireNativeComponent: "GestureHandlerRootView" was not found in the UIManager.](https://github.com/software-mansion/react-native-gesture-handler/issues/238)
 
 ### Packages for React Native
 
