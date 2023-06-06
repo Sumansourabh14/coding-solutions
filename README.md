@@ -138,6 +138,7 @@ Helpful links and solutions to various coding problems that I come across during
 ### Packages for React Native
 
 - [react-native-drawer](https://github.com/root-two/react-native-drawer)
+- [react-native-side-drawer](https://www.npmjs.com/package/react-native-side-drawer)
 
 ## VS Code
 
