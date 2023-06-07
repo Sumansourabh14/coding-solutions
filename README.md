@@ -31,6 +31,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Convert a string to a number in JavaScript](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/)
 - [Map only a portion of an array? (Array.map())](https://stackoverflow.com/questions/39455224/is-it-possible-to-map-only-a-portion-of-an-array-array-map)
+- [How to Remove an Element from an Array by ID in JavaScript?](https://javascript.plainenglish.io/javascript-remove-element-from-array-by-id-9c548f2aa27b)
 
 ## Material UI (MUI)
 
@@ -44,6 +45,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [MUI Divider Thickness/changing width or height](https://stackoverflow.com/questions/69682476/mui-divider-thickness)
 - [How can I center-align Material-ui TextField text?](https://stackoverflow.com/questions/56500234/how-can-i-center-align-material-ui-textfield-text-and-also-set-a-min-number-valu)
 - [How can I remove line/border above the accordion of Material UI?](https://stackoverflow.com/questions/63488140/how-can-i-remove-line-above-the-accordion-of-material-ui)
+- [Material-UI Grid Item height/same height](https://stackoverflow.com/questions/50743402/material-ui-grid-item-height)
 
 ## MongoDB
 
@@ -108,6 +110,10 @@ Helpful links and solutions to various coding problems that I come across during
 ### Drag and Drop List (React)
 
 - [<code>react-beautiful-dnd</code>](https://github.com/atlassian/react-beautiful-dnd)
+
+## Date
+
+- [Moment.js](https://momentjs.com/)
 
 ### uuid (For generating unique id)
 
