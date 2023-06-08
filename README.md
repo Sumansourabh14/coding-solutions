@@ -33,6 +33,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Convert a string to a number in JavaScript](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/)
 - [Map only a portion of an array? (Array.map())](https://stackoverflow.com/questions/39455224/is-it-possible-to-map-only-a-portion-of-an-array-array-map)
 - [How to Remove an Element from an Array by ID in JavaScript?](https://javascript.plainenglish.io/javascript-remove-element-from-array-by-id-9c548f2aa27b)
+- [How to insert an item into an array at a specific index?](https://stackoverflow.com/questions/586182/how-to-insert-an-item-into-an-array-at-a-specific-index-javascript)
 
 ## Material UI (MUI)
 
