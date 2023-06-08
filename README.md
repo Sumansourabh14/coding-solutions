@@ -20,6 +20,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Prevent Merge Conflicts (or at least have less of them)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 - [How to remove node_modules folder](https://gist.github.com/lmcneel/45594e550a3403d589bdcaad38138a83)
 - [What "Remote Origin Already Exists" Error Means and How To Fix It](https://www.cloudbees.com/blog/remote-origin-already-exists-error)
+- [How to uncommit my last commit in Git? (git reset ... commands)](https://stackoverflow.com/questions/2845731/how-to-uncommit-my-last-commit-in-git)
 
 ## HTML
 
