@@ -152,3 +152,9 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Remove/delete unused imports and declarations: Press <code>Alt + Shift + O</code> (Windows)](https://stackoverflow.com/questions/46722701/is-there-a-way-to-remove-unused-imports-and-declarations-from-angular-2)
 - [Prettier formatter on save not working](https://stackoverflow.com/questions/59433286/vs-code-prettier-format-on-save-doesnt-work)
+
+---
+
+## Web Development and UI/UX
+
+- [10 Best Practices for Creating Sign-up Forms](https://uxplanet.org/10-best-practices-for-creating-sign-up-forms-48470ce94b16)
