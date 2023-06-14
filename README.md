@@ -64,6 +64,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Server Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined](https://forum.moralis.io/t/server-error-error-element-type-is-invalid-expected-a-string-for-built-in-components-or-a-class-function-for-composite-components-but-got-undefined/13379)
 - [NextRouter was not mounted Next.JS (migrating from the pages directory)](https://stackoverflow.com/questions/74421327/nextrouter-was-not-mounted-next-js)
 - [How to Fix "localStorage is not defined" in Next.js?](https://developer.school/snippets/react/localstorage-is-not-defined-nextjs)
+- [Invalid src prop ('here is a link') on `next/image`, hostname "localhost" is not configured under images in your `next.config.js`](https://stackoverflow.com/questions/64909447/got-an-error-invalid-src-prop-here-is-a-link-on-next-image-hostname-loca)
 
 ## Node.js/Express
 
