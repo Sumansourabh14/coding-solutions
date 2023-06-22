@@ -144,6 +144,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Optimizing list render performance in React Native](https://www.matthewsessions.com/blog/optimizing-list-render-performance)
 - [Excessive number of pending callbacks: 501 (TouchableOpacity issue)](https://github.com/facebook/react-native/issues/27483)
 - [Invariant Violation: requireNativeComponent: "GestureHandlerRootView" was not found in the UIManager.](https://github.com/software-mansion/react-native-gesture-handler/issues/238)
+- [How to combine multiple inline style objects? Ans. <code><View style={[styles.base, styles.background]} /></code>](https://stackoverflow.com/questions/29979324/how-to-combine-multiple-inline-style-objects)
 
 ### Packages for React Native
 
