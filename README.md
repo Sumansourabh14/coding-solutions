@@ -5,6 +5,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - ['adb' is not recognized as an internal or external command, operable program or batch file](https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or)
 
+## API
+
+- [Best Practices for Naming REST API Endpoints](https://blog.dreamfactory.com/best-practices-for-naming-rest-api-endpoints/)
+
 ## CSS
 
 - [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
