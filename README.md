@@ -78,6 +78,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [What is the Difference Between GET and POST Methods?](https://www.baeldung.com/cs/http-get-vs-post#:~:text=GET%20requests%20are%20intended%20to,may%20modify%20the%20server's%20state.)
 - [How To Use EJS to Template Your Node Application?](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
 - [Getting form data in node js:undefined error while submitting form](https://stackoverflow.com/questions/30780254/getting-form-data-in-node-jsundefined-error-while-submitting-form)
+- [Undefined process.env variable with dotenv and nodejs](https://stackoverflow.com/questions/52063997/undefined-process-env-variable-with-dotenv-and-nodejs)
 
 ## Packages
 
