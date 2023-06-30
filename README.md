@@ -152,6 +152,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Invariant Violation: requireNativeComponent: "GestureHandlerRootView" was not found in the UIManager.](https://github.com/software-mansion/react-native-gesture-handler/issues/238)
 - [How to combine multiple inline style objects? Ans. <code><View style={[styles.base, styles.background]} /></code>](https://stackoverflow.com/questions/29979324/how-to-combine-multiple-inline-style-objects)
 - [What is the difference between Expo and React Native?](https://stackoverflow.com/questions/39170622/what-is-the-difference-between-expo-and-react-native)
+- [line spacing text react native](https://stackoverflow.com/questions/42722675/interspace-between-text-lines-in-react-native)
 
 ### Packages for React Native
 
