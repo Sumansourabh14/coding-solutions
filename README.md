@@ -137,6 +137,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Uncaught Error: The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.](https://stackoverflow.com/questions/43366026/react-inline-style-style-prop-expects-a-mapping-from-style-properties-to-value)
 - [How to remove and element from an array onClick?](https://stackoverflow.com/questions/73723528/react-how-to-remove-and-element-from-an-array-onclick)
 - [How can i target a specific item of list on hover in React?](https://stackoverflow.com/questions/72922856/how-can-i-target-a-specific-item-of-list-on-hover-in-react)
+- [2 Ways to Render HTML Content in React and JSX](https://www.kindacode.com/article/ways-to-render-html-content-in-react-and-jsx/)
 
 ## React Native
 
