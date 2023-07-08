@@ -72,6 +72,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Fix "localStorage is not defined" in Next.js?](https://developer.school/snippets/react/localstorage-is-not-defined-nextjs)
 - [Invalid src prop ('here is a link') on `next/image`, hostname "localhost" is not configured under images in your `next.config.js`](https://stackoverflow.com/questions/64909447/got-an-error-invalid-src-prop-here-is-a-link-on-next-image-hostname-loca)
 - [Dynamic Routes (Next.js 13)](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
+- [How to Implement Nested Dynamic Routes In NextJS?](https://reacthustle.com/blog/next-js-nested-dynamic-routes)
 
 ## Node.js/Express
 
