@@ -174,3 +174,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [10 Best Practices for Creating Sign-up Forms](https://uxplanet.org/10-best-practices-for-creating-sign-up-forms-48470ce94b16)
 - [Best UX practices for search interface](https://qubstudio.com/blog/best-ux-practices-for-search-interface/)
+- 
+## WordPress
+
+- [Changing WordPress login information (email, password) from cPanel/Hpanel](https://www.name.com/support/articles/206176657-changing-wordpress-login-information-from-cpanel#:~:text=If%20you%20forget%20your%20password,from%20within%20your%20hosting%20cPanel.)
