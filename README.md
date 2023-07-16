@@ -8,6 +8,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## API
 
 - [Best Practices for Naming REST API Endpoints](https://blog.dreamfactory.com/best-practices-for-naming-rest-api-endpoints/)
+- [What Is a CORS Error and How to Fix It (3 Ways)](https://www.bannerbear.com/blog/what-is-a-cors-error-and-how-to-fix-it-3-ways/)
 
 ## CSS
 
