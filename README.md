@@ -41,6 +41,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Remove an Element from an Array by ID in JavaScript?](https://javascript.plainenglish.io/javascript-remove-element-from-array-by-id-9c548f2aa27b)
 - [How to insert an item into an array at a specific index?](https://stackoverflow.com/questions/586182/how-to-insert-an-item-into-an-array-at-a-specific-index-javascript)
 - [Getting a random value from a JavaScript array](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array)
+- [Difference between forEach() and map()](https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/)
 
 ## Material UI (MUI)
 
