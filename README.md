@@ -143,6 +143,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to remove and element from an array onClick?](https://stackoverflow.com/questions/73723528/react-how-to-remove-and-element-from-an-array-onclick)
 - [How can i target a specific item of list on hover in React?](https://stackoverflow.com/questions/72922856/how-can-i-target-a-specific-item-of-list-on-hover-in-react)
 - [2 Ways to Render HTML Content in React and JSX](https://www.kindacode.com/article/ways-to-render-html-content-in-react-and-jsx/)
+- [10 ReactJS Coding Challenge (💥Coding Interview Prep💥)](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
 
 ## React Native
 
