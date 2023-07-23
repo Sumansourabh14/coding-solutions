@@ -144,6 +144,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How can i target a specific item of list on hover in React?](https://stackoverflow.com/questions/72922856/how-can-i-target-a-specific-item-of-list-on-hover-in-react)
 - [2 Ways to Render HTML Content in React and JSX](https://www.kindacode.com/article/ways-to-render-html-content-in-react-and-jsx/)
 - [10 ReactJS Coding Challenge (💥Coding Interview Prep💥)](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
+- [3 Coding Interview Challenges for Mid-level React Developers](https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers)
 
 ## React Native
 
@@ -178,7 +179,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [10 Best Practices for Creating Sign-up Forms](https://uxplanet.org/10-best-practices-for-creating-sign-up-forms-48470ce94b16)
 - [Best UX practices for search interface](https://qubstudio.com/blog/best-ux-practices-for-search-interface/)
-- 
+  
 ## WordPress
 
 - [Changing WordPress login information (email, password) from cPanel/Hpanel](https://www.name.com/support/articles/206176657-changing-wordpress-login-information-from-cpanel#:~:text=If%20you%20forget%20your%20password,from%20within%20your%20hosting%20cPanel.)
