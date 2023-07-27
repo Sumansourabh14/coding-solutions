@@ -119,6 +119,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [<code>react-infinite-scroll-component</code>](https://www.npmjs.com/package/react-infinite-scroll-component)
 
+### Server
+
+- [lite-server](https://www.npmjs.com/package/lite-server)
+
 ### Puppeteer - Web Scraping
 
 - [<code>puppeteer</code>](https://www.npmjs.com/package/puppeteer)
