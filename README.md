@@ -56,6 +56,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How can I center-align Material-ui TextField text?](https://stackoverflow.com/questions/56500234/how-can-i-center-align-material-ui-textfield-text-and-also-set-a-min-number-valu)
 - [How can I remove line/border above the accordion of Material UI?](https://stackoverflow.com/questions/63488140/how-can-i-remove-line-above-the-accordion-of-material-ui)
 - [Material-UI Grid Item height/same height](https://stackoverflow.com/questions/50743402/material-ui-grid-item-height)
+- [Material-ui drawer width issue](https://stackoverflow.com/questions/50098882/material-ui-drawer-width-issue)
 
 ## MongoDB
 
