@@ -150,6 +150,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [2 Ways to Render HTML Content in React and JSX](https://www.kindacode.com/article/ways-to-render-html-content-in-react-and-jsx/)
 - [10 ReactJS Coding Challenge (💥Coding Interview Prep💥)](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
 - [3 Coding Interview Challenges for Mid-level React Developers](https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers)
+- [Why should we not update the state directly? - It won't re-render the component](https://iq.js.org/questions/react/why-should-we-not-update-the-state-directly)
 
 ## React Native
 
