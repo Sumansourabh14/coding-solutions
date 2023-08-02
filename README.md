@@ -100,6 +100,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Yarn - There appears to be trouble with your network connection. Retrying](https://stackoverflow.com/questions/51508364/yarn-there-appears-to-be-trouble-with-your-network-connection-retrying)
 - [How to add a dev dependency using yarn?](https://onecompiler.com/questions/3wbdphp75/how-to-add-a-dev-dependency-using-yarn)
   - Answer: <code>yarn add nodemon -D</code>
+- [How to increase the timeout for `yarn install`?](https://stackoverflow.com/questions/47812779/how-to-increase-the-timeout-for-yarn-install)
 
 ### Carousel Component 1 to use in React, Next.js
 
