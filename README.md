@@ -170,6 +170,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to combine multiple inline style objects? Ans. <code><View style={[styles.base, styles.background]} /></code>](https://stackoverflow.com/questions/29979324/how-to-combine-multiple-inline-style-objects)
 - [What is the difference between Expo and React Native?](https://stackoverflow.com/questions/39170622/what-is-the-difference-between-expo-and-react-native)
 - [line spacing text react native](https://stackoverflow.com/questions/42722675/interspace-between-text-lines-in-react-native)
+- [Hide scrollbar in FlatList (React Native) in Android](https://stackoverflow.com/questions/43987917/hide-scrollbar-in-flatlist-react-native-in-android)
 
 ### Packages for React Native
 
