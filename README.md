@@ -176,6 +176,7 @@ Helpful links and solutions to various coding problems that I come across during
 ](https://sumansourabh.hashnode.dev/how-to-solve-expo-error-failed-to-connect-to-19216814-port-8081-after-10000ms)
 - [Hide scrollbar (horizontal or vertical) in ScrollView](https://github.com/facebook/react-native/issues/3912)
 - [Change font family of TextInput (React Native)](https://github.com/callstack/react-native-paper/issues/634#issuecomment-831339926)
+- [Change font family of DropDown list items (React Native)](https://fateh999.github.io/react-native-paper-dropdown/#/README)
 
 ### Packages for React Native
 
