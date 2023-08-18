@@ -180,6 +180,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [react-native-drawer](https://github.com/root-two/react-native-drawer)
 - [react-native-side-drawer](https://www.npmjs.com/package/react-native-side-drawer)
+- [react-native-root-toast (Show toast messages)](https://www.npmjs.com/package/react-native-root-toast)
 
 ## VS Code
 
