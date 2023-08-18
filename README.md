@@ -174,6 +174,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Can't connect my Android Phone in Expo React Native Project](https://stackoverflow.com/questions/52351197/cant-connect-my-android-phone-in-expo-react-native-project)
 - [How to Solve Expo Error: Failed to connect to /192.168.1.4 (port 8081) after 10000ms
 ](https://sumansourabh.hashnode.dev/how-to-solve-expo-error-failed-to-connect-to-19216814-port-8081-after-10000ms)
+- [Hide scrollbar (horizontal or vertical) in ScrollView](https://github.com/facebook/react-native/issues/3912)
 
 ### Packages for React Native
 
