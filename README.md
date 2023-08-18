@@ -175,6 +175,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Solve Expo Error: Failed to connect to /192.168.1.4 (port 8081) after 10000ms
 ](https://sumansourabh.hashnode.dev/how-to-solve-expo-error-failed-to-connect-to-19216814-port-8081-after-10000ms)
 - [Hide scrollbar (horizontal or vertical) in ScrollView](https://github.com/facebook/react-native/issues/3912)
+- [Change font family of TextInput (React Native)](https://github.com/callstack/react-native-paper/issues/634#issuecomment-831339926)
 
 ### Packages for React Native
 
