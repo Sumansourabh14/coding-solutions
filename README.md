@@ -9,6 +9,8 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Best Practices for Naming REST API Endpoints](https://blog.dreamfactory.com/best-practices-for-naming-rest-api-endpoints/)
 - [What Is a CORS Error and How to Fix It (3 Ways)](https://www.bannerbear.com/blog/what-is-a-cors-error-and-how-to-fix-it-3-ways/)
+- [How to Write Good API Documentation
+](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 
 ## CSS
 
