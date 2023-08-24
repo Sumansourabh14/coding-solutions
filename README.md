@@ -155,6 +155,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [10 ReactJS Coding Challenge (💥Coding Interview Prep💥)](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
 - [3 Coding Interview Challenges for Mid-level React Developers](https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers)
 - [Why should we not update the state directly? - It won't re-render the component](https://iq.js.org/questions/react/why-should-we-not-update-the-state-directly)
+- ['react-scripts' is not recognized as an internal or external command](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command)
 
 ## React Native
 
