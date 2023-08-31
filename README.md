@@ -45,6 +45,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to insert an item into an array at a specific index?](https://stackoverflow.com/questions/586182/how-to-insert-an-item-into-an-array-at-a-specific-index-javascript)
 - [Getting a random value from a JavaScript array](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array)
 - [Difference between forEach() and map()](https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/)
+- [How to Reverse an Array in JavaScript – JS .reverse() Function](https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/#:~:text=If%20you%20do%20not%20want,that%20array%20to%20a%20variable.&text=Using%20the%20spread%20operator%20here,reverse%20method%20on%20the%20clone.)
 
 ## Material UI (MUI)
 
@@ -180,6 +181,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Hide scrollbar (horizontal or vertical) in ScrollView](https://github.com/facebook/react-native/issues/3912)
 - [Change font family of TextInput (React Native)](https://github.com/callstack/react-native-paper/issues/634#issuecomment-831339926)
 - [Change font family of DropDown list items (React Native)](https://fateh999.github.io/react-native-paper-dropdown/#/README)
+- [How to set <code><Text></code> text to upper case in react native](https://stackoverflow.com/questions/35813156/how-to-set-text-text-to-upper-case-in-react-native)
 
 ### Packages for React Native
 
