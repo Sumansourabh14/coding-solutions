@@ -46,6 +46,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Getting a random value from a JavaScript array](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array)
 - [Difference between forEach() and map()](https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/)
 - [How to Reverse an Array in JavaScript – JS .reverse() Function](https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/#:~:text=If%20you%20do%20not%20want,that%20array%20to%20a%20variable.&text=Using%20the%20spread%20operator%20here,reverse%20method%20on%20the%20clone.)
+- [Write backslash (\) in JavaScript](https://stackoverflow.com/questions/3903488/javascript-backslash-in-variables-is-causing-an-error)
 
 ## Material UI (MUI)
 
