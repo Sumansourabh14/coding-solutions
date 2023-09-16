@@ -96,6 +96,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How To Use EJS to Template Your Node Application?](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
 - [Getting form data in node js:undefined error while submitting form](https://stackoverflow.com/questions/30780254/getting-form-data-in-node-jsundefined-error-while-submitting-form)
 - [Undefined process.env variable with dotenv and nodejs](https://stackoverflow.com/questions/52063997/undefined-process-env-variable-with-dotenv-and-nodejs)
+- [Determine project root from a running node.js application (<code>require('path').resolve('./')</code>)](https://stackoverflow.com/questions/10265798/determine-project-root-from-a-running-node-js-application)
 
 ## Packages
 
