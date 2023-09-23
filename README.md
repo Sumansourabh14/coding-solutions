@@ -63,9 +63,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [Material-UI Grid Item height/same height](https://stackoverflow.com/questions/50743402/material-ui-grid-item-height)
 - [Material-ui drawer width issue](https://stackoverflow.com/questions/50098882/material-ui-drawer-width-issue)
 
-## MongoDB
+## MongoDB/Mongoose
 
 - [Error : "Could not connect to any servers in your MongoDB Atlas cluster"](https://stackoverflow.com/questions/61937581/error-could-not-connect-to-any-servers-in-your-mongodb-atlas-cluster)
+- [Comparing mongoose _id and strings/object id](https://stackoverflow.com/questions/11637353/comparing-mongoose-id-and-strings#:~:text=Mongoose%20uses%20the%20mongodb%2Dnative,equals()%20method.)
 
 ## Next.js
 
