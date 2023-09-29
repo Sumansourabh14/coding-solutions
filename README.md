@@ -144,6 +144,7 @@ Helpful links and solutions to various coding problems that I come across during
 ### Drag and Drop List (React)
 
 - [<code>react-beautiful-dnd</code>](https://github.com/atlassian/react-beautiful-dnd)
+- [Invariant failed: Cannot find droppable entry with id](https://github.com/atlassian/react-beautiful-dnd/issues/2396)
 
 ## Date
 
