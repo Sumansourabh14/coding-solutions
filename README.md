@@ -22,6 +22,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [Check browser window size](https://www.rapidtables.com/web/tools/window-size.html)
 - [Navbar with background blur](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
 
+## Firebase
+
+- [Upload Images / Files to Firebase In React - Firebase V9 File Upload Tutorial](https://youtu.be/YOAeBSCkArA?si=b9sa2UGkd1VcsJyx)
+
 ## Git/GitHub
 
 - [How to Prevent Merge Conflicts (or at least have less of them)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
