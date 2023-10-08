@@ -107,6 +107,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Undefined process.env variable with dotenv and nodejs](https://stackoverflow.com/questions/52063997/undefined-process-env-variable-with-dotenv-and-nodejs)
 - [Determine project root from a running node.js application (<code>require('path').resolve('./')</code>)](https://stackoverflow.com/questions/10265798/determine-project-root-from-a-running-node-js-application)
 - [Error: EEXIST: file already exists when output directory already exists](https://github.com/hapijs/lab/issues/980)
+- [Node.js (with express & bodyParser): unable to obtain form-data from post request](https://stackoverflow.com/questions/26347394/node-js-with-express-bodyparser-unable-to-obtain-form-data-from-post-reques)
 
 ## Packages
 
@@ -157,6 +158,10 @@ Helpful links and solutions to various coding problems that I come across during
 ### uuid (For generating unique id)
 
 - [<code>uuid</code>](https://www.npmjs.com/package/uuid)
+
+### Handle multipart/form-data
+
+- [<code>multer</code>](https://www.npmjs.com/package/multer)
 
 ## React
 
