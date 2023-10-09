@@ -142,6 +142,12 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [lite-server](https://www.npmjs.com/package/lite-server)
 
+### Text Editor
+
+- [react-quill](https://github.com/zenoamaro/react-quill)
+- [document is not defined](https://github.com/zenoamaro/react-quill/issues/292)
+- [Unable to set up a default font size](https://github.com/quilljs/quill/issues/1493)
+
 ### Puppeteer - Web Scraping
 
 - [<code>puppeteer</code>](https://www.npmjs.com/package/puppeteer)
