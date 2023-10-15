@@ -92,6 +92,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to add a favicon to a Next.js static site?](https://stackoverflow.com/questions/56213019/how-to-add-a-favicon-to-a-next-js-static-site)
 - [How to pass object as params in Router.push() in nextjs and access that object in other component?](https://stackoverflow.com/questions/62995520/how-to-pass-object-as-params-in-router-push-in-nextjs-and-access-that-object-i)
 - [How to apply different color in AppBar Title Material UI?](https://stackoverflow.com/questions/39138380/how-to-apply-different-color-in-appbar-title-material-ui)
+- [Module not found: Can't resolve 'encoding' './node_modules/node-fetch/lib/index.js'](https://github.com/vercel/next.js/issues/7621#issuecomment-810828589)
 
 ## Node.js/Express
 
