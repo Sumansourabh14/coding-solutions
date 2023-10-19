@@ -74,6 +74,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Comparing mongoose _id and strings/object id](https://stackoverflow.com/questions/11637353/comparing-mongoose-id-and-strings#:~:text=Mongoose%20uses%20the%20mongodb%2Dnative,equals()%20method.)
 - [How to add (push) items into mongo array via mongoose?](https://stackoverflow.com/questions/33049707/push-items-into-mongo-array-via-mongoose)
 - [How to remove (pull) items from mongo array via mongoose?](https://www.mongodb.com/docs/manual/reference/operator/update/pull/#mongodb-update-up.-pull)
+- [How to update a field in mongoose?](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)
 
 ## Next.js
 
