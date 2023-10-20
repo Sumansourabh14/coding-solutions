@@ -67,6 +67,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Material-UI Grid Item height/same height](https://stackoverflow.com/questions/50743402/material-ui-grid-item-height)
 - [Material-ui drawer width issue](https://stackoverflow.com/questions/50098882/material-ui-drawer-width-issue)
 - [Customizing disabled button color with Material UI (MUI)](https://muhimasri.com/blogs/customizing-disabled-button-colors-with-mui/#:~:text=A%20disabled%20button%20typically%20has,match%20our%20overall%20design%20system.)
+- [index.js:1 Warning: React does not recognize the endAdornment prop](https://github.com/mui/material-ui/issues/19788#issuecomment-598287137)
 
 ## MongoDB/Mongoose
 
