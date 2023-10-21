@@ -232,6 +232,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [10 Best Practices for Creating Sign-up Forms](https://uxplanet.org/10-best-practices-for-creating-sign-up-forms-48470ce94b16)
 - [Best UX practices for search interface](https://qubstudio.com/blog/best-ux-practices-for-search-interface/)
 - [Disable same origin policy in Chrome](https://stackoverflow.com/questions/3102819/disable-same-origin-policy-in-chrome)
+- [8 UI/UX tips about password design](https://dev.to/indieklem/8-uiux-tips-about-password-design-5bbn)
   
 ## WordPress
 
