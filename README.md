@@ -187,6 +187,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [3 Coding Interview Challenges for Mid-level React Developers](https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers)
 - [Why should we not update the state directly? - It won't re-render the component](https://iq.js.org/questions/react/why-should-we-not-update-the-state-directly)
 - ['react-scripts' is not recognized as an internal or external command](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command)
+- [How to detect if capslock key is pressed in password input field? (Caps Lock in React: Tips and Tricks for User-Friendly Form Design)](https://geepy.hashnode.dev/caps-lock-in-react-tips-and-tricks-for-user-friendly-form-design)
 
 ## React Native
 
