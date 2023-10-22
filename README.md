@@ -233,6 +233,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Best UX practices for search interface](https://qubstudio.com/blog/best-ux-practices-for-search-interface/)
 - [Disable same origin policy in Chrome](https://stackoverflow.com/questions/3102819/disable-same-origin-policy-in-chrome)
 - [8 UI/UX tips about password design](https://dev.to/indieklem/8-uiux-tips-about-password-design-5bbn)
+- [How to Write a Perfect Error Message](https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36#:~:text=As%20usual%2C%20the%20red%20color,contrast%20against%20its%20background%20color.)
   
 ## WordPress
 
