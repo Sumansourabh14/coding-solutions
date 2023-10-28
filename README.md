@@ -34,6 +34,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to uncommit my last commit in Git? (git reset ... commands)](https://stackoverflow.com/questions/2845731/how-to-uncommit-my-last-commit-in-git)
 - [How do I configure git to ignore some files locally?](https://stackoverflow.com/questions/1753070/how-do-i-configure-git-to-ignore-some-files-locally)
 - [Make sure you configure your 'user.name' and 'user.email' in git bitbucket](https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/)
+- [How do I create a new branch based on the current HEAD in Git?](https://www.git-tower.com/learn/git/faq/create-branch)
 
 ## HTML
 
