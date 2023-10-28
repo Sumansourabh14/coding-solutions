@@ -97,6 +97,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to apply different color in AppBar Title Material UI?](https://stackoverflow.com/questions/39138380/how-to-apply-different-color-in-appbar-title-material-ui)
 - [Module not found: Can't resolve 'encoding' './node_modules/node-fetch/lib/index.js'](https://github.com/vercel/next.js/issues/7621#issuecomment-810828589)
 - [How to set the next/image component to 100% height?](https://stackoverflow.com/a/66330921)
+- [Upload files in Next.js with Edgestore](https://edgestore.dev/)
 
 ## Node.js/Express
 
