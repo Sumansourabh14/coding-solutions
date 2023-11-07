@@ -117,6 +117,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Determine project root from a running node.js application (<code>require('path').resolve('./')</code>)](https://stackoverflow.com/questions/10265798/determine-project-root-from-a-running-node-js-application)
 - [Error: EEXIST: file already exists when output directory already exists](https://github.com/hapijs/lab/issues/980)
 - [Node.js (with express & bodyParser): unable to obtain form-data from post request](https://stackoverflow.com/questions/26347394/node-js-with-express-bodyparser-unable-to-obtain-form-data-from-post-reques)
+- ["NODE_ENV" is not recognized as an internal or external command, operable command or batch file](https://stackoverflow.com/questions/11928013/node-env-is-not-recognized-as-an-internal-or-external-command-operable-comman)
 
 ## Packages
 
