@@ -75,6 +75,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Customizing disabled button color with Material UI (MUI)](https://muhimasri.com/blogs/customizing-disabled-button-colors-with-mui/#:~:text=A%20disabled%20button%20typically%20has,match%20our%20overall%20design%20system.)
 - [index.js:1 Warning: React does not recognize the endAdornment prop](https://github.com/mui/material-ui/issues/19788#issuecomment-598287137)
 - [MUI pagination doesn't move to top/Table scroll to top of new page](https://stackoverflow.com/questions/62878406/material-ui-table-scroll-to-top-of-new-page)
+- [How to make a material ui modal scrollable?](https://stackoverflow.com/questions/53939246/how-to-make-a-material-ui-modal-scrollable)
+- [Change background color of dialog in mui](https://github.com/mui/material-ui/issues/5278#issuecomment-693587007)
 
 ## MongoDB/Mongoose
 
