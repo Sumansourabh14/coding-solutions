@@ -126,6 +126,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Node.js (with express & bodyParser): unable to obtain form-data from post request](https://stackoverflow.com/questions/26347394/node-js-with-express-bodyparser-unable-to-obtain-form-data-from-post-reques)
 - ["NODE_ENV" is not recognized as an internal or external command, operable command or batch file](https://stackoverflow.com/questions/11928013/node-env-is-not-recognized-as-an-internal-or-external-command-operable-comman)
 - [Add nodemon as a dev dependency](https://stackoverflow.com/a/65955897)
+- [Compare passwords using bcrypt](https://stackoverflow.com/a/40077486)
 
 ## Packages
 
