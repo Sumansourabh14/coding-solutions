@@ -128,6 +128,8 @@ Helpful links and solutions to various coding problems that I come across during
 - ["NODE_ENV" is not recognized as an internal or external command, operable command or batch file](https://stackoverflow.com/questions/11928013/node-env-is-not-recognized-as-an-internal-or-external-command-operable-comman)
 - [Add nodemon as a dev dependency](https://stackoverflow.com/a/65955897)
 - [Compare passwords using bcrypt](https://stackoverflow.com/a/40077486)
+- [How set multiple cookies with res.cookie(key, value) on NodeJS?](https://stackoverflow.com/questions/52019400/how-set-multiple-cookies-with-res-cookiekey-value-on-nodejs)
+- [Set an expire time in cookie with res.cookie](https://stackoverflow.com/a/46026552)
 
 ## Packages
 
