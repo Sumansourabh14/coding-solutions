@@ -40,6 +40,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Make sure you configure your 'user.name' and 'user.email' in git bitbucket](https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/)
 - [How do I create a new branch based on the current HEAD in Git?](https://www.git-tower.com/learn/git/faq/create-branch)
 - [Moving changed files to another branch for check-in/Transfer a set of changes to a different branch in git](https://stackoverflow.com/questions/7217894/moving-changed-files-to-another-branch-for-check-in)
+- [How do I check if a variable is an array in JavaScript?](https://stackoverflow.com/a/26633883)
 
 ## HTML
 
