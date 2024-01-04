@@ -1,4 +1,4 @@
-# Coding Solution
+# Coding Solutions
 Helpful links and solutions to various coding problems that I come across during day to day coding.
 
 ## Android Studio (Emulator)
