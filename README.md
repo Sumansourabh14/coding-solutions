@@ -25,6 +25,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Convert rem to px (Online tool)](https://nekocalc.com/px-to-rem-converter)
 - [Check browser window size](https://www.rapidtables.com/web/tools/window-size.html)
 - [Navbar with background blur](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
+- [How to set Max Character length in CSS (5 Ways)](https://bobbyhadz.com/blog/css-set-max-character-length)
+- [Text not wrapping in paragraph element](https://stackoverflow.com/a/14477222)
 
 ## Firebase
 
@@ -79,6 +81,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [MUI pagination doesn't move to top/Table scroll to top of new page](https://stackoverflow.com/questions/62878406/material-ui-table-scroll-to-top-of-new-page)
 - [How to make a material ui modal scrollable?](https://stackoverflow.com/questions/53939246/how-to-make-a-material-ui-modal-scrollable)
 - [Change background color of dialog in mui](https://github.com/mui/material-ui/issues/5278#issuecomment-693587007)
+- [Change TextField font color in Material UI? <code><TextField sx={{ input: { color: 'red' } }} /></code>](https://stackoverflow.com/a/69878855)
+- [How to set border radius in Dialog Material ui?](https://stackoverflow.com/a/75130021)
 
 ## MongoDB/Mongoose
 
