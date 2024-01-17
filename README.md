@@ -139,6 +139,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Compare passwords using bcrypt](https://stackoverflow.com/a/40077486)
 - [How set multiple cookies with res.cookie(key, value) on NodeJS?](https://stackoverflow.com/questions/52019400/how-set-multiple-cookies-with-res-cookiekey-value-on-nodejs)
 - [Set an expire time in cookie with res.cookie](https://stackoverflow.com/a/46026552)
+- [Why is JWT token 'expires in' not removing the cookie from the browsers cache?](https://stackoverflow.com/questions/73986829/why-is-jwt-token-expires-in-not-removing-the-cookie-from-the-browsers-cache)
 
 ## Packages
 
