@@ -63,6 +63,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Reverse an Array in JavaScript – JS .reverse() Function](https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/#:~:text=If%20you%20do%20not%20want,that%20array%20to%20a%20variable.&text=Using%20the%20spread%20operator%20here,reverse%20method%20on%20the%20clone.)
 - [Write backslash (\\) in JavaScript](https://stackoverflow.com/questions/3903488/javascript-backslash-in-variables-is-causing-an-error)
 - [Check if a variable is a string in JavaScript](https://stackoverflow.com/a/9436948)
+- [localStorage is not defined error showing](https://stackoverflow.com/a/64721383)
 
 ## Material UI (MUI)
 
