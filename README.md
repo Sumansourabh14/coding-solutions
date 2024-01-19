@@ -64,6 +64,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Write backslash (\\) in JavaScript](https://stackoverflow.com/questions/3903488/javascript-backslash-in-variables-is-causing-an-error)
 - [Check if a variable is a string in JavaScript](https://stackoverflow.com/a/9436948)
 - [localStorage is not defined error showing](https://stackoverflow.com/a/64721383)
+- [Capitalize First Letter – How to Uppercase the First Letter in a Word with JS](https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/)
 
 ## Material UI (MUI)
 
