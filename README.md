@@ -68,6 +68,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [Capitalize First Letter – How to Uppercase the First Letter in a Word with JS](https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/)
 - [How to slice string from the end in JavaScript?](https://stackoverflow.com/questions/42308976/how-to-slice-string-from-the-end-in-javascript)
 
+## jQuery
+
+- [jQuery removeAttr() Method - Remove an HTML element attribute](https://www.w3schools.com/jquery/html_removeattr.asp)
+
 ## Material UI (MUI)
 
 - [How to remove lines between cells in MUI Table](https://stackoverflow.com/questions/57325232/how-to-remove-lines-between-cells-in-mui-table)
