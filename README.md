@@ -91,6 +91,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to set border radius in Dialog Material ui?](https://stackoverflow.com/a/75130021)
 - [How to add a serial number to every row in MUI DataGrid?](https://stackoverflow.com/questions/71822341/how-to-add-a-serial-number-to-every-row-in-mui-datagrid)
 - [Set Dialog width/maxWidth in Material UI](https://stackoverflow.com/a/47182366)
+- [How to disable a Textfield in Material UI?](https://stackoverflow.com/a/62078423)
+- [Material UI Checkbox Tutorial and Examples](https://react.school/material-ui/checkbox)
 
 ## MongoDB/Mongoose
 
