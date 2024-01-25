@@ -46,6 +46,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How do I delete a local branch in Git?](https://www.git-tower.com/learn/git/faq/delete-local-branch)
 - [Git List Branches – How to Show All Remote and Local Branch Names](https://www.freecodecamp.org/news/git-list-branches-how-to-show-all-remote-and-local-branch-names/)
 - [How to know the git username and email saved during configuration?](https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration)
+- [Create new branch in Git: <code>git checkout -b branch-name</code>](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 ## HTML
 
