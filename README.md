@@ -97,6 +97,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Set Dialog width/maxWidth in Material UI](https://stackoverflow.com/a/47182366)
 - [How to disable a Textfield in Material UI?](https://stackoverflow.com/a/62078423)
 - [Material UI Checkbox Tutorial and Examples](https://react.school/material-ui/checkbox)
+- [How can I change the font size of the label in FormControlLabel?](https://stackoverflow.com/a/58741654)
 
 ## MongoDB/Mongoose
 
