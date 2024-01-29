@@ -130,6 +130,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to set the next/image component to 100% height?](https://stackoverflow.com/a/66330921)
 - [Upload files in Next.js with Edgestore](https://edgestore.dev/)
 - [Nextjs installing react using yarn by default. Install Next.js using yarn](https://stackoverflow.com/questions/62624011/nextjs-installing-react-using-yarn-by-default)
+- [Parsing error : Cannot find module 'next/babel'](https://stackoverflow.com/questions/68163385/parsing-error-cannot-find-module-next-babel)
 
 ## Node.js/Express
 
