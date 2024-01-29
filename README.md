@@ -132,6 +132,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Nextjs installing react using yarn by default. Install Next.js using yarn](https://stackoverflow.com/questions/62624011/nextjs-installing-react-using-yarn-by-default)
 - [Parsing error : Cannot find module 'next/babel'](https://stackoverflow.com/questions/68163385/parsing-error-cannot-find-module-next-babel)
 - [How can I run a node server with a next.js application?](https://stackoverflow.com/a/58594573)
+- [Custom server in Next.js](https://nextjs.org/docs/pages/building-your-application/configuring/custom-server)
 
 ## Node.js/Express
 
