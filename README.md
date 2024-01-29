@@ -129,6 +129,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Module not found: Can't resolve 'encoding' './node_modules/node-fetch/lib/index.js'](https://github.com/vercel/next.js/issues/7621#issuecomment-810828589)
 - [How to set the next/image component to 100% height?](https://stackoverflow.com/a/66330921)
 - [Upload files in Next.js with Edgestore](https://edgestore.dev/)
+- [Nextjs installing react using yarn by default. Install Next.js using yarn](https://stackoverflow.com/questions/62624011/nextjs-installing-react-using-yarn-by-default)
 
 ## Node.js/Express
 
