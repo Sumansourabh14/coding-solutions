@@ -133,6 +133,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Parsing error : Cannot find module 'next/babel'](https://stackoverflow.com/questions/68163385/parsing-error-cannot-find-module-next-babel)
 - [How can I run a node server with a next.js application?](https://stackoverflow.com/a/58594573)
 - [Custom server in Next.js](https://nextjs.org/docs/pages/building-your-application/configuring/custom-server)
+- [Is it possible to make an app with next.js and an another server for backend application and be always good for SEO performances?](https://stackoverflow.com/questions/51735940/next-js-it-is-possible-to-make-an-app-with-next-js-and-an-another-server-for-b?rq=4)
 
 ## Node.js/Express
 
