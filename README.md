@@ -159,6 +159,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Why is JWT token 'expires in' not removing the cookie from the browsers cache?](https://stackoverflow.com/questions/73986829/why-is-jwt-token-expires-in-not-removing-the-cookie-from-the-browsers-cache)
 - [How to add query parameters to router.get?](https://stackoverflow.com/questions/53241157/how-to-add-query-parameters-to-router-get)
 - [JWT Error: invalid expiresIn option for string payload](https://stackoverflow.com/questions/66449908/error-invalid-expiresin-option-for-string-payload)
+- [JsonWebTokenError: jwt malformed](https://stackoverflow.com/a/51849197)
 
 ## Packages
 
