@@ -161,6 +161,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to add query parameters to router.get?](https://stackoverflow.com/questions/53241157/how-to-add-query-parameters-to-router-get)
 - [JWT Error: invalid expiresIn option for string payload](https://stackoverflow.com/questions/66449908/error-invalid-expiresin-option-for-string-payload)
 - [JsonWebTokenError: jwt malformed](https://stackoverflow.com/a/51849197)
+- [Delete User and Logout that user from all Devices](https://stackoverflow.com/a/72158696)
 
 ## Packages
 
