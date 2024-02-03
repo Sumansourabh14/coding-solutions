@@ -135,6 +135,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How can I run a node server with a next.js application?](https://stackoverflow.com/a/58594573)
 - [Custom server in Next.js](https://nextjs.org/docs/pages/building-your-application/configuring/custom-server)
 - [Is it possible to make an app with next.js and an another server for backend application and be always good for SEO performances?](https://stackoverflow.com/questions/51735940/next-js-it-is-possible-to-make-an-app-with-next-js-and-an-another-server-for-b?rq=4)
+- [How to hide navbar header in login page in nextjs? (layout)](https://stackoverflow.com/questions/58013066/how-to-hide-navbar-header-in-login-page-in-nextjs)
 
 ## Node.js/Express
 
