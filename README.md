@@ -271,6 +271,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [react-native-side-drawer](https://www.npmjs.com/package/react-native-side-drawer)
 - [react-native-root-toast (Show toast messages)](https://www.npmjs.com/package/react-native-root-toast)
 
+## Tailwind CSS
+
+- [Animated loading spinner in 60 seconds - Tailwind CSS](https://youtu.be/zKKHrG47oC4?si=8UZ8MQf6K3c5Oa3i)
+
 ## VS Code
 
 - [Remove/delete unused imports and declarations: Press <code>Alt + Shift + O</code> (Windows)](https://stackoverflow.com/questions/46722701/is-there-a-way-to-remove-unused-imports-and-declarations-from-angular-2)
