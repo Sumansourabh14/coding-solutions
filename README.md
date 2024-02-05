@@ -137,6 +137,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Is it possible to make an app with next.js and an another server for backend application and be always good for SEO performances?](https://stackoverflow.com/questions/51735940/next-js-it-is-possible-to-make-an-app-with-next-js-and-an-another-server-for-b?rq=4)
 - [How to hide navbar header in login page in nextjs? (layout)](https://stackoverflow.com/questions/58013066/how-to-hide-navbar-header-in-login-page-in-nextjs)
 - [Get URL router pathname in nextjs 13 and 14](https://stackoverflow.com/a/75926922)
+- [Location is not defined error in React + Next.js](https://stackoverflow.com/a/77883588)
+- [<code>Uncaught TypeError: destroy is not a function</code>](https://stackoverflow.com/a/74265567)
 
 ## Node.js/Express
 
