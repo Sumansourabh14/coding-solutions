@@ -122,6 +122,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Next.js 13 - ReferenceError: location is not defined](https://www.reddit.com/r/nextjs/comments/11fuwys/nextjs_13_referenceerror_location_is_not_defined/)
 - [How to Fix "localStorage is not defined" in Next.js?](https://developer.school/snippets/react/localstorage-is-not-defined-nextjs)
 - [Invalid src prop ('here is a link') on `next/image`, hostname "localhost" is not configured under images in your `next.config.js`](https://stackoverflow.com/questions/64909447/got-an-error-invalid-src-prop-here-is-a-link-on-next-image-hostname-loca)
+    - [`next/image` Un-configured Host](https://nextjs.org/docs/messages/next-image-unconfigured-host)
 - [Dynamic Routes (Next.js 13)](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
 - [How to Implement Nested Dynamic Routes In NextJS?](https://reacthustle.com/blog/next-js-nested-dynamic-routes)
 - [How to add a favicon to a Next.js static site?](https://stackoverflow.com/questions/56213019/how-to-add-a-favicon-to-a-next-js-static-site)
