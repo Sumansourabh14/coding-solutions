@@ -139,6 +139,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Get URL router pathname in nextjs 13 and 14](https://stackoverflow.com/a/75926922)
 - [Location is not defined error in React + Next.js](https://stackoverflow.com/a/77883588)
 - [<code>Uncaught TypeError: destroy is not a function</code>](https://stackoverflow.com/a/74265567)
+- [Build a Search Bar with Next.js and Prisma (Search API endpoint)](https://youtu.be/IYoZvxUbhUQ?si=7FPYOL3YximjNdt9)
 
 ## Node.js/Express
 
