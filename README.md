@@ -27,6 +27,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Navbar with background blur](https://dev.to/shrihari/navbar-with-background-blur-aesthetic-look-in-2-lines-of-code--4kp6)
 - [How to set Max Character length in CSS (5 Ways)](https://bobbyhadz.com/blog/css-set-max-character-length)
 - [Text not wrapping in paragraph element](https://stackoverflow.com/a/14477222)
+- [Div disappears on positioning it fixed](https://stackoverflow.com/questions/18747466/div-disappears-on-positioning-it-fixed)
 
 ## Firebase
 
