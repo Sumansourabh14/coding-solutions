@@ -102,6 +102,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Material UI Checkbox Tutorial and Examples](https://react.school/material-ui/checkbox)
 - [How can I change the font size of the label in FormControlLabel?](https://stackoverflow.com/a/58741654)
 - [Increase size/fontsize of icons in MUI](https://mui.com/material-ui/api/icon/#icon-prop-fontSize)
+- [Display 'No Rows' message after applying filter in MUI DataGrid](https://stackoverflow.com/questions/66783261/display-no-rows-message-after-applying-filter-in-mui-datagrid)
 
 ## MongoDB/Mongoose
 
