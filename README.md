@@ -175,6 +175,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [JWT Error: invalid expiresIn option for string payload](https://stackoverflow.com/questions/66449908/error-invalid-expiresin-option-for-string-payload)
 - [JsonWebTokenError: jwt malformed](https://stackoverflow.com/a/51849197)
 - [Delete User and Logout that user from all Devices](https://stackoverflow.com/a/72158696)
+- [jwt must be provided](https://stackoverflow.com/a/50638723)
+- [bcrypt Error: data and hash arguments required](https://stackoverflow.com/a/68771597)
 
 ## Packages
 
