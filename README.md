@@ -104,6 +104,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [Increase size/fontsize of icons in MUI](https://mui.com/material-ui/api/icon/#icon-prop-fontSize)
 - [Display 'No Rows' message after applying filter in MUI DataGrid](https://stackoverflow.com/questions/66783261/display-no-rows-message-after-applying-filter-in-mui-datagrid)
 
+## Markdown
+
+- [Add images/local images to Markdown (readme.md file)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
+
 ## MongoDB/Mongoose
 
 - [Error : "Could not connect to any servers in your MongoDB Atlas cluster"](https://stackoverflow.com/questions/61937581/error-could-not-connect-to-any-servers-in-your-mongodb-atlas-cluster)
