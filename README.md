@@ -12,6 +12,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Write Good API Documentation
 ](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 
+### TMDB API (Movies)
+
+- [Trying to get Backdrops of series from TMDB](https://stackoverflow.com/questions/66915567/trying-to-get-backdrops-of-series-from-tmdb)
+
 ## Browser/Web Browser
 
 - [How to set default checked/enabled background graphic option in print preview using window.print](https://stackoverflow.com/a/52715296)
