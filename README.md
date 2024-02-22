@@ -74,6 +74,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [localStorage is not defined error showing](https://stackoverflow.com/a/64721383)
 - [Capitalize First Letter – How to Uppercase the First Letter in a Word with JS](https://www.freecodecamp.org/news/javascript-capitalize-first-letter-of-word/)
 - [How to slice string from the end in JavaScript?](https://stackoverflow.com/questions/42308976/how-to-slice-string-from-the-end-in-javascript)
+- [How to concatenate/combine the elements of a sub array and a parent array? Array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 
 ## jQuery
 
