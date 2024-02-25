@@ -59,6 +59,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to make <code>input type="file" /</code> accept only these types?](https://stackoverflow.com/questions/17293861/how-to-make-input-type-file-accept-only-these-types)
 - [Prevent div from taking 100% width](https://stackoverflow.com/questions/3794770/prevent-divs-from-taking-100-width)
 - [h1 to next line html (line break/br tag)](https://stackoverflow.com/questions/6846448/two-lines-in-h1-tag)
+- [What does the HTML image decoding async attribute do and how can it help us to improve performance?](https://www.js-craft.io/blog/what-does-the-html-image-decoding-async-attribute-do-and-how-can-it-help-us-to-improve-performance/)
 
 ## JavaScript
 
