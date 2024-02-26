@@ -77,6 +77,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to slice string from the end in JavaScript?](https://stackoverflow.com/questions/42308976/how-to-slice-string-from-the-end-in-javascript)
 - [How to concatenate/combine the elements of a sub array and a parent array? Array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 - [Check whether an object has the specified property as its own property <code>hasOwnProperty()</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
+- [How to pull url file extension out of url string using javascript?](https://stackoverflow.com/questions/6997262/how-to-pull-url-file-extension-out-of-url-string-using-javascript)
 
 ## jQuery
 
