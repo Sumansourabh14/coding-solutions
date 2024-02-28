@@ -185,6 +185,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Delete User and Logout that user from all Devices](https://stackoverflow.com/a/72158696)
 - [jwt must be provided](https://stackoverflow.com/a/50638723)
 - [bcrypt Error: data and hash arguments required](https://stackoverflow.com/a/68771597)
+- [How to make remote REST call inside Node.js? (Nested API call)](https://stackoverflow.com/a/58853230)
 
 ## Packages
 
