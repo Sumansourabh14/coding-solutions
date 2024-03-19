@@ -292,6 +292,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Change font family of TextInput (React Native)](https://github.com/callstack/react-native-paper/issues/634#issuecomment-831339926)
 - [Change font family of DropDown list items (React Native)](https://fateh999.github.io/react-native-paper-dropdown/#/README)
 - [How to set <code><Text></code> text to upper case in react native](https://stackoverflow.com/questions/35813156/how-to-set-text-text-to-upper-case-in-react-native)
+- [Invariant Violation: requireNativeComponent: "RNSVGSvgViewAndroid" was not found in the UIManager](https://stackoverflow.com/a/74836278)
+- [Error: Style property 'shadowOffset' is not supported by native animated module](https://github.com/callstack/react-native-paper/issues/4224#issuecomment-1870242167)
 
 ### Packages for React Native
 
