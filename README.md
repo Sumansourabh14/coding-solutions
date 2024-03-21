@@ -294,6 +294,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to set <code><Text></code> text to upper case in react native](https://stackoverflow.com/questions/35813156/how-to-set-text-text-to-upper-case-in-react-native)
 - [Invariant Violation: requireNativeComponent: "RNSVGSvgViewAndroid" was not found in the UIManager](https://stackoverflow.com/a/74836278)
 - [Error: Style property 'shadowOffset' is not supported by native animated module](https://github.com/callstack/react-native-paper/issues/4224#issuecomment-1870242167)
+- [Issue when downloading files on Android builds running expo-dev-client](https://github.com/expo/expo/issues/24005)
 
 ### Packages for React Native
 
