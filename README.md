@@ -295,7 +295,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Invariant Violation: requireNativeComponent: "RNSVGSvgViewAndroid" was not found in the UIManager](https://stackoverflow.com/a/74836278)
 - [Error: Style property 'shadowOffset' is not supported by native animated module](https://github.com/callstack/react-native-paper/issues/4224#issuecomment-1870242167)
 - [Issue when downloading files on Android builds running expo-dev-client](https://github.com/expo/expo/issues/24005)
-- [Error While Updating property "edges" of a view managed by RNCSafeAreaView in react native](https://stackoverflow.com/questions/76785813/error-while-updating-property-edges-of-a-view-managed-by-rncsafeareaview-in-re)
+- [Error While Updating property "edges" of a view managed by RNCSafeAreaView in react native](https://stackoverflow.com/a/76785916)
 
 ### Packages for React Native
 
