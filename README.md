@@ -312,6 +312,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Remove/delete unused imports and declarations: Press <code>Alt + Shift + O</code> (Windows)](https://stackoverflow.com/questions/46722701/is-there-a-way-to-remove-unused-imports-and-declarations-from-angular-2)
 - [Prettier formatter on save not working](https://stackoverflow.com/questions/59433286/vs-code-prettier-format-on-save-doesnt-work)
 - [Collapse (fold/unfold) all methods/functions in Visual Studio Code](https://stackoverflow.com/questions/42660670/collapse-all-methods-in-visual-studio-code)
+- [How To Format Code with Prettier in Visual Studio Code?](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code)
 
 ---
 
