@@ -111,6 +111,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How can I change the font size of the label in FormControlLabel?](https://stackoverflow.com/a/58741654)
 - [Increase size/fontsize of icons in MUI](https://mui.com/material-ui/api/icon/#icon-prop-fontSize)
 - [Display 'No Rows' message after applying filter in MUI DataGrid](https://stackoverflow.com/questions/66783261/display-no-rows-message-after-applying-filter-in-mui-datagrid)
+- [Cannot set padding to 0 on Material UI Button](https://stackoverflow.com/questions/47190839/cannot-set-padding-to-0-on-material-ui-button)
 
 ## Markdown
 
