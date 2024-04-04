@@ -297,6 +297,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Error: Style property 'shadowOffset' is not supported by native animated module](https://github.com/callstack/react-native-paper/issues/4224#issuecomment-1870242167)
 - [Issue when downloading files on Android builds running expo-dev-client](https://github.com/expo/expo/issues/24005)
 - [Error While Updating property "edges" of a view managed by RNCSafeAreaView in react native](https://stackoverflow.com/a/76785916)
+- [Expo SDK update from 42 to 46 - a lot work? - Upgrade Expo version](https://www.reddit.com/r/reactnative/comments/wm162i/comment/ijwm3xk/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ### Packages for React Native
 
