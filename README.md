@@ -303,6 +303,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Expected package @expo/config-plugins@~7.2.2 Found invalid: @expo/config-plugins@5.0.4](https://stackoverflow.com/questions/77308347/expected-package-expo-config-plugins7-2-2-found-invalid-expo-config-plugins)
 - [Expected package, Found invalid when running expo doctor](https://stackoverflow.com/questions/72500108/expected-package-found-invalid-when-running-expo-doctor)
 - [Invariant Violation: requireNativeComponent: "RNSVGSvgViewAndroid" was not found in the UIManager](https://stackoverflow.com/questions/74651911/invariant-violation-requirenativecomponent-rnsvgsvgviewandroid-was-not-found)
+- [You can't rollout this release because it doesn't allow any existing users to upgrade to the newly added app bundles](https://stackoverflow.com/questions/70590728/you-cant-rollout-this-release-because-it-doesnt-allow-any-existing-users-to-up)
 
 ### Packages for React Native
 
