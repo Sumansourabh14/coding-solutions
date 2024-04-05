@@ -158,6 +158,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Location is not defined error in React + Next.js](https://stackoverflow.com/a/77883588)
 - [<code>Uncaught TypeError: destroy is not a function</code>](https://stackoverflow.com/a/74265567)
 - [Build a Search Bar with Next.js and Prisma (Search API endpoint)](https://youtu.be/IYoZvxUbhUQ?si=7FPYOL3YximjNdt9)
+- [pnpm dev Error: UNKNOWN: unknown error](https://stackoverflow.com/questions/77253376/pnpm-dev-pops-unhandledrejection-errno-4094)
 
 ## Node.js/Express
 
