@@ -304,6 +304,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Expected package, Found invalid when running expo doctor](https://stackoverflow.com/questions/72500108/expected-package-found-invalid-when-running-expo-doctor)
 - [Invariant Violation: requireNativeComponent: "RNSVGSvgViewAndroid" was not found in the UIManager](https://stackoverflow.com/questions/74651911/invariant-violation-requirenativecomponent-rnsvgsvgviewandroid-was-not-found)
 - [You can't rollout this release because it doesn't allow any existing users to upgrade to the newly added app bundles](https://stackoverflow.com/questions/70590728/you-cant-rollout-this-release-because-it-doesnt-allow-any-existing-users-to-up)
+- [Restricted in strict mode, js engine: hermes (React Native + Axios 1.0.0)](https://github.com/axios/axios/issues/4998)
 
 ### Packages for React Native
 
