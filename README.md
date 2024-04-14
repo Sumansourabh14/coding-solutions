@@ -126,6 +126,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to remove (pull) items from mongo array via mongoose?](https://www.mongodb.com/docs/manual/reference/operator/update/pull/#mongodb-update-up.-pull)
 - [How to update a field in mongoose?](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)
 - [How to Use findOneAndUpdate() in Mongoose](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)
+- [Convert ObjectID (Mongodb) to String in JavaScript](https://stackoverflow.com/questions/16478552/convert-objectid-mongodb-to-string-in-javascript)
 
 ## Next.js
 
