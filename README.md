@@ -54,6 +54,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Create new branch in Git: <code>git checkout -b branch-name</code>](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 - [What does the -M mean in git branch -M main?](https://stackoverflow.com/questions/68277661/what-does-the-m-mean-in-git-branch-m-main)
 - [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)
+- [Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch](https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially)
 
 ## HTML
 
