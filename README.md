@@ -130,6 +130,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to update a field in mongoose?](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)
 - [How to Use findOneAndUpdate() in Mongoose](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)
 - [Convert ObjectID (Mongodb) to String in JavaScript](https://stackoverflow.com/questions/16478552/convert-objectid-mongodb-to-string-in-javascript)
+- [Mongoose use of .select() method](https://stackoverflow.com/questions/9548186/mongoose-use-of-select-method)
 
 ## Next.js
 
