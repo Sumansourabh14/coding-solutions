@@ -57,6 +57,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch](https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially)
 - [git stash - Save the Uncommitted Changes Locally](https://refine.dev/blog/git-stash/#git-stash-vs-commit)
 - [View git history of specific line](https://stackoverflow.com/questions/50469927/view-git-history-of-specific-line)
+- [Is it possible to delete a pull-request on BitBucket?](https://stackoverflow.com/questions/64005844/is-it-possible-to-delete-a-pull-request-on-bitbucket)
 
 ## HTML
 
