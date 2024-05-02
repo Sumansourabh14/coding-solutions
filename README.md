@@ -201,6 +201,8 @@ Helpful links and solutions to various coding problems that I come across during
 
 ## Packages
 
+- ['nvm' is not recognized as an internal or external command Windows](https://stackoverflow.com/questions/56112627/nvm-is-not-recognized-as-an-internal-or-external-command-windows)
+
 ### FontAwesome Icons
 
 - [Why my font-awesome icons are being displayed big at first and then updated to the right size?](https://stackoverflow.com/a/59429852)
