@@ -315,6 +315,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [You can't rollout this release because it doesn't allow any existing users to upgrade to the newly added app bundles](https://stackoverflow.com/questions/70590728/you-cant-rollout-this-release-because-it-doesnt-allow-any-existing-users-to-up)
 - [Restricted in strict mode, js engine: hermes (React Native + Axios 1.0.0)](https://github.com/axios/axios/issues/4998)
 - [EAS build RNCWebView not found](https://forums.expo.dev/t/eas-build-rncwebview-not-found/55716/4)
+- [I am trying to install eas cli and am getting the error: zsh: command not found: eas](https://stackoverflow.com/questions/72874829/i-am-trying-to-install-eas-cli-and-am-getting-the-error-zsh-command-not-found)
 
 ### Packages for React Native
 
