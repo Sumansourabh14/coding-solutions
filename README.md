@@ -283,7 +283,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to detect if capslock key is pressed in password input field? (Caps Lock in React: Tips and Tricks for User-Friendly Form Design)](https://geepy.hashnode.dev/caps-lock-in-react-tips-and-tricks-for-user-friendly-form-design)
 - ["vite is not recognized ..." on "npm run dev"](https://stackoverflow.com/questions/71844271/vite-is-not-recognized-on-npm-run-dev)
 
-## React Native
+## React Native / Expo
 
 - [Scroll View inside view not working react native](https://stackoverflow.com/questions/38137388/scroll-view-inside-view-not-working-react-native)
 - [Applying box shadows in React Native](https://blog.logrocket.com/applying-box-shadows-in-react-native/)
@@ -320,6 +320,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Restricted in strict mode, js engine: hermes (React Native + Axios 1.0.0)](https://github.com/axios/axios/issues/4998)
 - [EAS build RNCWebView not found](https://forums.expo.dev/t/eas-build-rncwebview-not-found/55716/4)
 - [I am trying to install eas cli and am getting the error: zsh: command not found: eas](https://stackoverflow.com/questions/72874829/i-am-trying-to-install-eas-cli-and-am-getting-the-error-zsh-command-not-found)
+- [How to tell if your Android app has been approved by Google and can be rolled out on Google Play for initial public launch?](https://stackoverflow.com/questions/68584457/how-to-tell-if-your-android-app-has-been-approved-by-google-and-can-be-rolled-ou)
 
 ### Packages for React Native
 
