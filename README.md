@@ -322,6 +322,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [I am trying to install eas cli and am getting the error: zsh: command not found: eas](https://stackoverflow.com/questions/72874829/i-am-trying-to-install-eas-cli-and-am-getting-the-error-zsh-command-not-found)
 - [How to tell if your Android app has been approved by Google and can be rolled out on Google Play for initial public launch?](https://stackoverflow.com/questions/68584457/how-to-tell-if-your-android-app-has-been-approved-by-google-and-can-be-rolled-ou)
 - [Internal testing in Google Play doesn't send out emails](https://stackoverflow.com/questions/52813461/internal-testing-in-google-play-doesnt-send-out-emails)
+- [Add usesClearTextTraffic = true on expo-react-native](https://stackoverflow.com/questions/76475785/add-usescleartexttraffic-true-on-expo-react-native)
 
 ### Packages for React Native
 
