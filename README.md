@@ -117,6 +117,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Increase size/fontsize of icons in MUI](https://mui.com/material-ui/api/icon/#icon-prop-fontSize)
 - [Display 'No Rows' message after applying filter in MUI DataGrid](https://stackoverflow.com/questions/66783261/display-no-rows-message-after-applying-filter-in-mui-datagrid)
 - [Cannot set padding to 0 on Material UI Button](https://stackoverflow.com/questions/47190839/cannot-set-padding-to-0-on-material-ui-button)
+- [Display 'No Rows' message after applying filter in MUI DataGrid](https://stackoverflow.com/a/76980425/15597327)
 
 ## Markdown
 
