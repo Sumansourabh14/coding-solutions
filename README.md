@@ -324,6 +324,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to tell if your Android app has been approved by Google and can be rolled out on Google Play for initial public launch?](https://stackoverflow.com/questions/68584457/how-to-tell-if-your-android-app-has-been-approved-by-google-and-can-be-rolled-ou)
 - [Internal testing in Google Play doesn't send out emails](https://stackoverflow.com/questions/52813461/internal-testing-in-google-play-doesnt-send-out-emails)
 - [Add usesClearTextTraffic = true on expo-react-native](https://stackoverflow.com/questions/76475785/add-usescleartexttraffic-true-on-expo-react-native)
+- [ERROR: JAVA_HOME is not set and no 'java' command could be found in your flutter PATH](https://stackoverflow.com/questions/64359564/error-java-home-is-not-set-and-no-java-command-could-be-found-in-your-flutter)
 
 ### Packages for React Native
 
