@@ -358,3 +358,4 @@ Helpful links and solutions to various coding problems that I come across during
 ## WordPress
 
 - [Changing WordPress login information (email, password) from cPanel/Hpanel](https://www.name.com/support/articles/206176657-changing-wordpress-login-information-from-cpanel#:~:text=If%20you%20forget%20your%20password,from%20within%20your%20hosting%20cPanel.)
+- [WordPress - blog post title font massive, how do we change](https://wordpress.org/support/topic/blog-post-title-font-massive-how-do-we-change/)
