@@ -233,6 +233,11 @@ Helpful links and solutions to various coding problems that I come across during
 - [FlatList - YouTube Tutorial 1](https://youtu.be/r2NJJye0XnM)
 - [FlatList - YouTube Tutorial 2](https://youtu.be/Efy48Uoa4RM)
 
+### Display Document on the page (Preview)
+
+- [react-documents](https://www.npmjs.com/package/react-documents?activeTab=readme)
+- [React PDF Viewer](https://react-pdf-viewer.dev/docs/getting-started/)
+
 ### Infinite Scroll to use in React, Next.js
 
 - [<code>react-infinite-scroll-component</code>](https://www.npmjs.com/package/react-infinite-scroll-component)
