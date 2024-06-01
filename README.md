@@ -65,6 +65,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Prevent div from taking 100% width](https://stackoverflow.com/questions/3794770/prevent-divs-from-taking-100-width)
 - [h1 to next line html (line break/br tag)](https://stackoverflow.com/questions/6846448/two-lines-in-h1-tag)
 - [What does the HTML image decoding async attribute do and how can it help us to improve performance?](https://www.js-craft.io/blog/what-does-the-html-image-decoding-async-attribute-do-and-how-can-it-help-us-to-improve-performance/)
+- [What is aria-label and how should I use it?](https://stackoverflow.com/questions/22039910/what-is-aria-label-and-how-should-i-use-it)
+- [What is the difference between aria-label and title attributes?](https://stackoverflow.com/questions/27953425/what-is-the-difference-between-aria-label-and-title-attributes)
 
 ## JavaScript
 
