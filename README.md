@@ -332,6 +332,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Internal testing in Google Play doesn't send out emails](https://stackoverflow.com/questions/52813461/internal-testing-in-google-play-doesnt-send-out-emails)
 - [Add usesClearTextTraffic = true on expo-react-native](https://stackoverflow.com/questions/76475785/add-usescleartexttraffic-true-on-expo-react-native)
 - [ERROR: JAVA_HOME is not set and no 'java' command could be found in your flutter PATH](https://stackoverflow.com/questions/64359564/error-java-home-is-not-set-and-no-java-command-could-be-found-in-your-flutter)
+- [What is the difference between "npm start" and "react-native run-android" deployments?](https://stackoverflow.com/questions/56548557/what-is-the-difference-between-npm-start-and-react-native-run-android-deploy)
 
 ### Packages for React Native
 
