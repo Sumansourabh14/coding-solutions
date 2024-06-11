@@ -125,6 +125,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Add images/local images to Markdown (readme.md file)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 
+## Misc
+
+- [Debugging Safari/Chrome on your iPhone/iPad/iOS device](https://davidlozzi.com/2022/03/23/debugging-safari-chrome-on-your-iphone-ipad-ios-device/)
+ 
 ## MongoDB/Mongoose
 
 - [Error : "Could not connect to any servers in your MongoDB Atlas cluster"](https://stackoverflow.com/questions/61937581/error-could-not-connect-to-any-servers-in-your-mongodb-atlas-cluster)
