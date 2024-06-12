@@ -32,6 +32,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to set Max Character length in CSS (5 Ways)](https://bobbyhadz.com/blog/css-set-max-character-length)
 - [Text not wrapping in paragraph element](https://stackoverflow.com/a/14477222)
 - [Div disappears on positioning it fixed](https://stackoverflow.com/questions/18747466/div-disappears-on-positioning-it-fixed)
+- [How can I increase a scrollbar's width using CSS?](https://stackoverflow.com/questions/4053220/how-can-i-increase-a-scrollbars-width-using-css)
 
 ## Firebase
 
