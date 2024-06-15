@@ -176,6 +176,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [pnpm dev Error: UNKNOWN: unknown error](https://stackoverflow.com/questions/77253376/pnpm-dev-pops-unhandledrejection-errno-4094)
 - [Can I configure multiple image hostnames in next.config.js (Next.js)?](https://stackoverflow.com/a/75002866)
 - [NextJS Image component with fixed witdth and auto height](https://stackoverflow.com/a/73618982)
+- [Using MDX with NextJS 13 returning useContext error](https://stackoverflow.com/questions/75915454/using-mdx-with-nextjs-13-returning-usecontext-error)
 
 ## Node.js/Express
 
