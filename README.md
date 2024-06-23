@@ -179,6 +179,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Can I configure multiple image hostnames in next.config.js (Next.js)?](https://stackoverflow.com/a/75002866)
 - [NextJS Image component with fixed witdth and auto height](https://stackoverflow.com/a/73618982)
 - [Using MDX with NextJS 13 returning useContext error](https://stackoverflow.com/questions/75915454/using-mdx-with-nextjs-13-returning-usecontext-error)
+- [Missing Suspense boundary with useSearchParams](https://nextjs.org/docs/messages/missing-suspense-with-csr-bailout)
 
 ## Node.js/Express
 
