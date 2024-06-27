@@ -181,6 +181,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [NextJS Image component with fixed witdth and auto height](https://stackoverflow.com/a/73618982)
 - [Using MDX with NextJS 13 returning useContext error](https://stackoverflow.com/questions/75915454/using-mdx-with-nextjs-13-returning-usecontext-error)
 - [Missing Suspense boundary with useSearchParams](https://nextjs.org/docs/messages/missing-suspense-with-csr-bailout)
+- [How Can i disable Link href="" component in Next.js on various conditions?](https://stackoverflow.com/questions/73555618/how-can-i-disable-link-href-in-next-js-on-various-conditions)
 
 ## Node.js/Express
 
