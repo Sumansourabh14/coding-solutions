@@ -344,6 +344,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Add usesClearTextTraffic = true on expo-react-native](https://stackoverflow.com/questions/76475785/add-usescleartexttraffic-true-on-expo-react-native)
 - [ERROR: JAVA_HOME is not set and no 'java' command could be found in your flutter PATH](https://stackoverflow.com/questions/64359564/error-java-home-is-not-set-and-no-java-command-could-be-found-in-your-flutter)
 - [What is the difference between "npm start" and "react-native run-android" deployments?](https://stackoverflow.com/questions/56548557/what-is-the-difference-between-npm-start-and-react-native-run-android-deploy)
+- [SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable](https://stackoverflow.com/questions/27620262/sdk-location-not-found-define-location-with-sdk-dir-in-the-local-properties-fil)
+- [Failed to launch emulator. Reason: No emulators found as an output of `emulator -list-avds` in React native](https://stackoverflow.com/a/61143070/15597327)
 
 ### Packages for React Native
 
