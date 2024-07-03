@@ -88,6 +88,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Check whether an object has the specified property as its own property <code>hasOwnProperty()</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
 - [How to pull url file extension out of url string using javascript?](https://stackoverflow.com/questions/6997262/how-to-pull-url-file-extension-out-of-url-string-using-javascript)
 - [Length of a JavaScript object](https://stackoverflow.com/questions/5223/length-of-a-javascript-object)
+- [Check if a value is an object in JavaScript](https://stackoverflow.com/a/8511350/15597327)
 
 ## jQuery
 
@@ -346,6 +347,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [What is the difference between "npm start" and "react-native run-android" deployments?](https://stackoverflow.com/questions/56548557/what-is-the-difference-between-npm-start-and-react-native-run-android-deploy)
 - [SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable](https://stackoverflow.com/questions/27620262/sdk-location-not-found-define-location-with-sdk-dir-in-the-local-properties-fil)
 - [Failed to launch emulator. Reason: No emulators found as an output of `emulator -list-avds` in React native](https://stackoverflow.com/a/61143070/15597327)
+- [Showing list empty message at the center of the screen in a FlatList using ListHeaderComponent](https://stackoverflow.com/a/52951481/15597327)
 
 ### Packages for React Native
 
