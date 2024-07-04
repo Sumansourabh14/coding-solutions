@@ -349,6 +349,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Failed to launch emulator. Reason: No emulators found as an output of `emulator -list-avds` in React native](https://stackoverflow.com/a/61143070/15597327)
 - [Showing list empty message at the center of the screen in a FlatList using ListHeaderComponent](https://stackoverflow.com/a/52951481/15597327)
 - ['react-native' is not recognized as an internal or external command, operable program or batch file](https://stackoverflow.com/a/41347543/15597327)
+- [What is metro bundler in react-native?](https://stackoverflow.com/questions/51116811/what-is-metro-bundler-in-react-native)
 
 ### Packages for React Native
 
