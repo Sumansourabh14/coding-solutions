@@ -351,6 +351,7 @@ Helpful links and solutions to various coding problems that I come across during
 - ['react-native' is not recognized as an internal or external command, operable program or batch file](https://stackoverflow.com/a/41347543/15597327)
 - [What is metro bundler in react-native?](https://stackoverflow.com/questions/51116811/what-is-metro-bundler-in-react-native)
 - [Android 13 - How to request WRITE_EXTERNAL_STORAGE](https://stackoverflow.com/questions/73620790/android-13-how-to-request-write-external-storage/74296799#74296799)
+- [Error: Download manager failed to download from Status Code = 16](https://github.com/joltup/rn-fetch-blob/issues/167)
 
 ### Packages for React Native
 
