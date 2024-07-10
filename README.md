@@ -89,6 +89,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to pull url file extension out of url string using javascript?](https://stackoverflow.com/questions/6997262/how-to-pull-url-file-extension-out-of-url-string-using-javascript)
 - [Length of a JavaScript object](https://stackoverflow.com/questions/5223/length-of-a-javascript-object)
 - [Check if a value is an object in JavaScript](https://stackoverflow.com/a/8511350/15597327)
+- [Check if each item in an array is identical in JavaScript](https://stackoverflow.com/questions/9646943/check-if-each-item-in-an-array-is-identical-in-javascript)
 
 ## jQuery
 
@@ -302,6 +303,7 @@ Helpful links and solutions to various coding problems that I come across during
 - ['react-scripts' is not recognized as an internal or external command](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command)
 - [How to detect if capslock key is pressed in password input field? (Caps Lock in React: Tips and Tricks for User-Friendly Form Design)](https://geepy.hashnode.dev/caps-lock-in-react-tips-and-tricks-for-user-friendly-form-design)
 - ["vite is not recognized ..." on "npm run dev"](https://stackoverflow.com/questions/71844271/vite-is-not-recognized-on-npm-run-dev)
+- [Correct way to push into state array](https://stackoverflow.com/questions/37435334/correct-way-to-push-into-state-array)
 
 ## React Native / Expo
 
