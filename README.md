@@ -354,6 +354,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [What is metro bundler in react-native?](https://stackoverflow.com/questions/51116811/what-is-metro-bundler-in-react-native)
 - [Android 13 - How to request WRITE_EXTERNAL_STORAGE](https://stackoverflow.com/questions/73620790/android-13-how-to-request-write-external-storage/74296799#74296799)
 - [Error: Download manager failed to download from Status Code = 16](https://github.com/joltup/rn-fetch-blob/issues/167)
+- [Invalid value for visibility: 2](https://github.com/joltup/rn-fetch-blob/issues/191)
 
 ### Packages for React Native
 
