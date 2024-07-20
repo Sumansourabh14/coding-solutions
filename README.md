@@ -90,6 +90,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Length of a JavaScript object](https://stackoverflow.com/questions/5223/length-of-a-javascript-object)
 - [Check if a value is an object in JavaScript](https://stackoverflow.com/a/8511350/15597327)
 - [Check if each item in an array is identical in JavaScript](https://stackoverflow.com/questions/9646943/check-if-each-item-in-an-array-is-identical-in-javascript)
+- [Any difference between await Promise.all() and multiple await?](https://stackoverflow.com/questions/45285129/any-difference-between-await-promise-all-and-multiple-await)
 
 ## jQuery
 
