@@ -60,6 +60,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [View git history of specific line](https://stackoverflow.com/questions/50469927/view-git-history-of-specific-line)
 - [Is it possible to delete a pull-request on BitBucket?](https://stackoverflow.com/questions/64005844/is-it-possible-to-delete-a-pull-request-on-bitbucket)
 - [How do I fetch all Git branches?](https://stackoverflow.com/questions/10312521/how-do-i-fetch-all-git-branches)
+- [How do I revert a Git repository to a previous commit?](https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit)
 
 ## HTML
 
