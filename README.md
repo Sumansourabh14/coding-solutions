@@ -306,6 +306,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to detect if capslock key is pressed in password input field? (Caps Lock in React: Tips and Tricks for User-Friendly Form Design)](https://geepy.hashnode.dev/caps-lock-in-react-tips-and-tricks-for-user-friendly-form-design)
 - ["vite is not recognized ..." on "npm run dev"](https://stackoverflow.com/questions/71844271/vite-is-not-recognized-on-npm-run-dev)
 - [Correct way to push into state array](https://stackoverflow.com/questions/37435334/correct-way-to-push-into-state-array)
+- [How to post query parameters with Axios?](https://stackoverflow.com/questions/53501185/how-to-post-query-parameters-with-axios)
 
 ## React Native / Expo
 
