@@ -72,6 +72,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [What does the HTML image decoding async attribute do and how can it help us to improve performance?](https://www.js-craft.io/blog/what-does-the-html-image-decoding-async-attribute-do-and-how-can-it-help-us-to-improve-performance/)
 - [What is aria-label and how should I use it?](https://stackoverflow.com/questions/22039910/what-is-aria-label-and-how-should-i-use-it)
 - [What is the difference between aria-label and title attributes?](https://stackoverflow.com/questions/27953425/what-is-the-difference-between-aria-label-and-title-attributes)
+- [Custom bullet symbol for <code><li></code> elements in <code><ul></code> that is a regular character, and not an image](https://stackoverflow.com/questions/7698764/custom-bullet-symbol-for-li-elements-in-ul-that-is-a-regular-character-and)
 
 ## JavaScript
 
@@ -94,6 +95,9 @@ Helpful links and solutions to various coding problems that I come across during
 - [Check if a value is an object in JavaScript](https://stackoverflow.com/a/8511350/15597327)
 - [Check if each item in an array is identical in JavaScript](https://stackoverflow.com/questions/9646943/check-if-each-item-in-an-array-is-identical-in-javascript)
 - [Any difference between await Promise.all() and multiple await?](https://stackoverflow.com/questions/45285129/any-difference-between-await-promise-all-and-multiple-await)
+- [How to jump to top of browser page](https://stackoverflow.com/questions/4147112/how-to-jump-to-top-of-browser-page)
+- [Where should I put <code><script></code> tags in HTML markup?](https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup)
+- [HTML DOM Document createElement()](https://www.w3schools.com/jsref/met_document_createelement.asp)
 
 ## jQuery
 
