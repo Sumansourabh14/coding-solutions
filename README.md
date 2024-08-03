@@ -72,7 +72,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [What does the HTML image decoding async attribute do and how can it help us to improve performance?](https://www.js-craft.io/blog/what-does-the-html-image-decoding-async-attribute-do-and-how-can-it-help-us-to-improve-performance/)
 - [What is aria-label and how should I use it?](https://stackoverflow.com/questions/22039910/what-is-aria-label-and-how-should-i-use-it)
 - [What is the difference between aria-label and title attributes?](https://stackoverflow.com/questions/27953425/what-is-the-difference-between-aria-label-and-title-attributes)
-- [Custom bullet symbol for <code><li></code> elements in <code><ul></code> that is a regular character, and not an image](https://stackoverflow.com/questions/7698764/custom-bullet-symbol-for-li-elements-in-ul-that-is-a-regular-character-and)
+- [Custom bullet symbol for li elements in ul that is a regular character, and not an image](https://stackoverflow.com/questions/7698764/custom-bullet-symbol-for-li-elements-in-ul-that-is-a-regular-character-and)
 
 ## JavaScript
 
