@@ -33,6 +33,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Text not wrapping in paragraph element](https://stackoverflow.com/a/14477222)
 - [Div disappears on positioning it fixed](https://stackoverflow.com/questions/18747466/div-disappears-on-positioning-it-fixed)
 - [How can I increase a scrollbar's width using CSS?](https://stackoverflow.com/questions/4053220/how-can-i-increase-a-scrollbars-width-using-css)
+- [How to Link CSS to HTML – Stylesheet File Linking](https://www.freecodecamp.org/news/how-to-link-css-to-html/)
+- [:first-child](https://css-tricks.com/almanac/selectors/f/first-child/)
 
 ## Firebase
 
