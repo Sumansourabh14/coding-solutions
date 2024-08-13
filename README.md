@@ -194,6 +194,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Missing Suspense boundary with useSearchParams](https://nextjs.org/docs/messages/missing-suspense-with-csr-bailout)
 - [How Can i disable Link href="" component in Next.js on various conditions?](https://stackoverflow.com/questions/73555618/how-can-i-disable-link-href-in-next-js-on-various-conditions)
 - [Loading Environment Variables](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables#bundling-environment-variables-for-the-browser)
+- [Next.js build failed - Error: Collecting page data for / is still timing out after 2 attempts.](https://github.com/vercel/next.js/issues/35602#issuecomment-1396107586)
 
 ## Node.js/Express
 
