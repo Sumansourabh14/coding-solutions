@@ -135,6 +135,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Cannot set padding to 0 on Material UI Button](https://stackoverflow.com/questions/47190839/cannot-set-padding-to-0-on-material-ui-button)
 - [Display 'No Rows' message after applying filter in MUI DataGrid](https://stackoverflow.com/a/76980425/15597327)
 - [<code>@mui/lab</code> LoadingButton error in latest release](https://github.com/mui/material-ui/issues/40192)
+- [How to remove the border of the Material UI Select component?](https://stackoverflow.com/a/73707977)
 
 ## Markdown
 
