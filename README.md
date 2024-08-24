@@ -137,6 +137,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [<code>@mui/lab</code> LoadingButton error in latest release](https://github.com/mui/material-ui/issues/40192)
 - [How to remove the border of the Material UI Select component?](https://stackoverflow.com/a/73707977)
 - [Material-UI v5 Datepicker - expand to the full width of its parent](https://stackoverflow.com/a/75833755/15597327)
+- [MUI Select component doesn't display placeholder or label props](https://stackoverflow.com/a/76505574/15597327)
 
 ## Markdown
 
