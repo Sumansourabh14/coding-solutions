@@ -305,6 +305,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [<code>multer</code>](https://www.npmjs.com/package/multer)
 
+## Python
+
+- [Could not install packages due to an OSError: [WinError 2] No such file or directory](https://stackoverflow.com/questions/66322049/could-not-install-packages-due-to-an-oserror-winerror-2-no-such-file-or-direc)
+
 ## React
 
 - [React class in global.css is undefined](https://stackoverflow.com/questions/55561983/css-modules-class-names-undefined)
