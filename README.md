@@ -146,6 +146,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## Misc
 
 - [Debugging Safari/Chrome on your iPhone/iPad/iOS device](https://davidlozzi.com/2022/03/23/debugging-safari-chrome-on-your-iphone-ipad-ios-device/)
+- [PowerShell says "execution of scripts is disabled on this system."](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system)
  
 ## MongoDB/Mongoose
 
