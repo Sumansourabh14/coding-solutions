@@ -12,6 +12,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Write Good API Documentation
 ](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 
+## Appwrite
+
+- [Solving CORS errors with Appwrite](https://dev.to/appwrite/solving-cors-errors-with-appwrite-1omm)
+
 ### TMDB API (Movies)
 
 - [Trying to get Backdrops of series from TMDB](https://stackoverflow.com/questions/66915567/trying-to-get-backdrops-of-series-from-tmdb)
