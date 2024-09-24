@@ -39,6 +39,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How can I increase a scrollbar's width using CSS?](https://stackoverflow.com/questions/4053220/how-can-i-increase-a-scrollbars-width-using-css)
 - [How to Link CSS to HTML – Stylesheet File Linking](https://www.freecodecamp.org/news/how-to-link-css-to-html/)
 - [:first-child](https://css-tricks.com/almanac/selectors/f/first-child/)
+- [Responsive Text CSS](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
 
 ## Firebase
 
