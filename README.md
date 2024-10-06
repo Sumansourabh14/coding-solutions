@@ -209,6 +209,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Next.js build failed - Error: Collecting page data for / is still timing out after 2 attempts.](https://github.com/vercel/next.js/issues/35602#issuecomment-1396107586)
 - [How to set page title and description if page is "use client" ?](https://github.com/vercel/next.js/discussions/50872)
 - [How to modify request headers in Next.js](https://stackoverflow.com/questions/71036865/how-to-modify-request-headers-in-next-js)
+- [How can I to hide nav and footer for my login and signup page in Next js 13](https://stackoverflow.com/questions/76501175/how-can-i-to-hide-nav-and-footer-for-my-login-and-signup-page-in-next-js-13)
 
 ## Node.js/Express
 
