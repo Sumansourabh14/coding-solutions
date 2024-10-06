@@ -286,6 +286,7 @@ Helpful links and solutions to various coding problems that I come across during
 ### React PDF Viewer
 
 - [Next 13.0.5: React-pdf error Module not found: Can't resolve 'canvas'](https://github.com/vercel/next.js/discussions/43465)
+- [How to use React PDF viewer with NextJS?](https://github.com/react-pdf-viewer/starter/tree/main/nextjs)
 
 ### Server
 
