@@ -79,6 +79,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [What is aria-label and how should I use it?](https://stackoverflow.com/questions/22039910/what-is-aria-label-and-how-should-i-use-it)
 - [What is the difference between aria-label and title attributes?](https://stackoverflow.com/questions/27953425/what-is-the-difference-between-aria-label-and-title-attributes)
 - [Custom bullet symbol for li elements in ul that is a regular character, and not an image](https://stackoverflow.com/questions/7698764/custom-bullet-symbol-for-li-elements-in-ul-that-is-a-regular-character-and)
+- [How to make input type= file Should accept only pdf and xls?](https://stackoverflow.com/questions/12142536/how-to-make-input-type-file-should-accept-only-pdf-and-xls)
 
 ## JavaScript
 
@@ -280,6 +281,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [<code>react-infinite-scroll-component</code>](https://www.npmjs.com/package/react-infinite-scroll-component)
     - [Adding Infinite Scroll | NextJs](https://youtu.be/GRUmg3SujN4?si=XhHTiAWrJXbJh9kK)
+ 
+### React PDF Viewer
+
+- [Next 13.0.5: React-pdf error Module not found: Can't resolve 'canvas'](https://github.com/vercel/next.js/discussions/43465)
 
 ### Server
 
