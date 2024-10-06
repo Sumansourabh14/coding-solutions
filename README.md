@@ -208,6 +208,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Loading Environment Variables](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables#bundling-environment-variables-for-the-browser)
 - [Next.js build failed - Error: Collecting page data for / is still timing out after 2 attempts.](https://github.com/vercel/next.js/issues/35602#issuecomment-1396107586)
 - [How to set page title and description if page is "use client" ?](https://github.com/vercel/next.js/discussions/50872)
+- [How to modify request headers in Next.js](https://stackoverflow.com/questions/71036865/how-to-modify-request-headers-in-next-js)
 
 ## Node.js/Express
 
