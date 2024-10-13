@@ -211,6 +211,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to modify request headers in Next.js](https://stackoverflow.com/questions/71036865/how-to-modify-request-headers-in-next-js)
 - [How can I to hide nav and footer for my login and signup page in Next js 13](https://stackoverflow.com/questions/76501175/how-can-i-to-hide-nav-and-footer-for-my-login-and-signup-page-in-next-js-13)
 - [How to set the next/image component to 100% height?](https://stackoverflow.com/a/76008677/15597327)
+- [How Can i disable <code>Link href=""</code> in next JS on various conditions?](https://stackoverflow.com/a/73555793/15597327)
 
 ## Node.js/Express
 
