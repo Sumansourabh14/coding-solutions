@@ -403,6 +403,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Animated loading spinner in 60 seconds - Tailwind CSS](https://youtu.be/zKKHrG47oC4?si=8UZ8MQf6K3c5Oa3i)
 - [Skeleton in Tailwind CSS](https://tailwindcss.com/docs/animation)
+- [How to add a style on a condition in tailwind css?](https://stackoverflow.com/questions/67383686/how-to-add-a-style-on-a-condition-in-tailwind-css)
 
 ## VS Code
 
