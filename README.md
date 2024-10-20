@@ -106,6 +106,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [Where should I put <code><script></code> tags in HTML markup?](https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup)
 - [HTML DOM Document createElement()](https://www.w3schools.com/jsref/met_document_createelement.asp)
 
+## Jest
+
+- [React jest testing error - object of useContext not defined](https://stackoverflow.com/questions/66856814/react-jest-testing-error-object-of-usecontext-not-defined)
+
 ## jQuery
 
 - [jQuery removeAttr() Method - Remove an HTML element attribute](https://www.w3schools.com/jquery/html_removeattr.asp)
@@ -244,6 +248,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to make remote REST call inside Node.js? (Nested API call)](https://stackoverflow.com/a/58853230)
 - [How to I Change node version in windows?](https://stackoverflow.com/questions/63697030/how-to-i-change-node-version-in-windows)
 - [How to add product to Shopping Cart with nodejs express and mongoose?](https://stackoverflow.com/questions/59174763/how-to-add-product-to-shopping-cart-with-nodejs-express-and-mongoose)
+- [Error: secretOrPrivateKey must have a value](https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value)
 
 ## Packages
 
