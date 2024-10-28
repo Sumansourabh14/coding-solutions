@@ -24,6 +24,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [How to set default checked/enabled background graphic option in print preview using window.print](https://stackoverflow.com/a/52715296)
 
+## Command Line
+
+- ["clear" not recognized as an internal or external command, operable program or batch file](https://stackoverflow.com/questions/29702053/clear-not-recognized-as-an-internal-or-external-command-operable-program-or-b)
+
 ## CSS
 
 - [Hide scroll bar, but while still being able to scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
