@@ -44,6 +44,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Link CSS to HTML – Stylesheet File Linking](https://www.freecodecamp.org/news/how-to-link-css-to-html/)
 - [:first-child](https://css-tricks.com/almanac/selectors/f/first-child/)
 - [Responsive Text CSS](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
+- [CSS to turn image into black and white with no grays](https://stackoverflow.com/questions/52936926/css-to-turn-image-into-black-and-white-with-no-grays)
 
 ## Firebase
 
