@@ -164,6 +164,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Debugging Safari/Chrome on your iPhone/iPad/iOS device](https://davidlozzi.com/2022/03/23/debugging-safari-chrome-on-your-iphone-ipad-ios-device/)
 - [PowerShell says "execution of scripts is disabled on this system."](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system)
 - [How to install ffmpeg on Windows?](https://youtu.be/JR36oH35Fgg?si=i3icWee9JWyPq5va)
+- [Change cursor from block or rectangle to line?](https://stackoverflow.com/questions/15728829/change-cursor-from-block-or-rectangle-to-line)
  
 ## MongoDB/Mongoose
 
