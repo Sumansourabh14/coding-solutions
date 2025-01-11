@@ -224,6 +224,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How can I to hide nav and footer for my login and signup page in Next js 13](https://stackoverflow.com/questions/76501175/how-can-i-to-hide-nav-and-footer-for-my-login-and-signup-page-in-next-js-13)
 - [How to set the next/image component to 100% height?](https://stackoverflow.com/a/76008677/15597327)
 - [How Can i disable <code>Link href=""</code> in next JS on various conditions?](https://stackoverflow.com/a/73555793/15597327)
+- [Displaying a Leaflet Map in NextJS](https://medium.com/@tomisinabiodun/displaying-a-leaflet-map-in-nextjs-85f86fccc10c)
 
 ## Node.js/Express
 
