@@ -453,3 +453,4 @@ Helpful links and solutions to various coding problems that I come across during
 - [Put shortcode on Elementor (WordPress)](https://elementor.com/help/shortcode-widget/)
 - [Clear WP Rocket cache](https://docs.wp-rocket.me/article/53-clear-wp-rocket-cache)
 - [Exclude pages from the cache and optimizations - WP Rocket](https://docs.wp-rocket.me/article/54-exclude-pages-from-the-cache#:~:text=Using%20the%20Never%20Cache%20URL%20%28s%29s%20option%20%23,pages%2C%20enter%20each%20one%20on%20its%20own%20line%3A)
+- [Posts widget vs Archive Posts widget](https://elementor.com/help/posts-widget-pro-vs-archive-posts-widget-pro/)
