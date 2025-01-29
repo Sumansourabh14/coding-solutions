@@ -260,6 +260,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to I Change node version in windows?](https://stackoverflow.com/questions/63697030/how-to-i-change-node-version-in-windows)
 - [How to add product to Shopping Cart with nodejs express and mongoose?](https://stackoverflow.com/questions/59174763/how-to-add-product-to-shopping-cart-with-nodejs-express-and-mongoose)
 - [Error: secretOrPrivateKey must have a value](https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value)
+- [Postman: Connect ECONNREFUSED 127.0.0.1:5005](https://stackoverflow.com/questions/70733101/postman-connect-econnrefused-127-0-0-15005)
 
 ## Packages
 
