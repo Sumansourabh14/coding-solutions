@@ -112,6 +112,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to jump to top of browser page](https://stackoverflow.com/questions/4147112/how-to-jump-to-top-of-browser-page)
 - [Where should I put <code><script></code> tags in HTML markup?](https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup)
 - [HTML DOM Document createElement()](https://www.w3schools.com/jsref/met_document_createelement.asp)
+- [How can I add a key/value pair to a JavaScript object?](https://stackoverflow.com/a/1168814/15597327)
 
 ## Jest
 
