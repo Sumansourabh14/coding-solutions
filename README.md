@@ -87,6 +87,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to make input type= file Should accept only pdf and xls?](https://stackoverflow.com/questions/12142536/how-to-make-input-type-file-should-accept-only-pdf-and-xls)
 - [How to Create Mailto Links?](https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html#:~:text=Mailto%20links%20are%20used%20to%20redirect%20to%20an,the%20email%20address%20mentioned%20in%20the%20Mailto%20link.)
 - [How to parse html to React component?](https://stackoverflow.com/questions/44643424/how-to-parse-html-to-react-component)
+- [Removing bullets from unordered list](https://stackoverflow.com/questions/33075940/removing-bullets-from-unordered-list)
 
 ## JavaScript
 
