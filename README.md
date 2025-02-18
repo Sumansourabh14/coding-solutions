@@ -114,6 +114,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Where should I put <code><script></code> tags in HTML markup?](https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup)
 - [HTML DOM Document createElement()](https://www.w3schools.com/jsref/met_document_createelement.asp)
 - [How can I add a key/value pair to a JavaScript object?](https://stackoverflow.com/a/1168814/15597327)
+- [What is the difference between `.prototype` and `.__proto__`?](https://stackoverflow.com/questions/9959727/what-is-the-difference-between-prototype-and-proto)
 
 ## Jest
 
