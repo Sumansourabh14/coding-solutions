@@ -173,6 +173,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to install ffmpeg on Windows?](https://youtu.be/JR36oH35Fgg?si=i3icWee9JWyPq5va)
 - [Change cursor from block or rectangle to line?](https://stackoverflow.com/questions/15728829/change-cursor-from-block-or-rectangle-to-line)
 - [How To Convert SRT to TXT?](https://ebby.co/subtitle-tools/converter/srt-to-txt)
+- [No "App passwords" under "Security" -> "Signing in to Google" panel](https://support.google.com/mail/thread/4477145/no-app-passwords-under-security-signing-in-to-google-panel?hl=en)
  
 ## MongoDB/Mongoose
 
