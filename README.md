@@ -121,6 +121,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [React jest testing error - object of useContext not defined](https://stackoverflow.com/questions/66856814/react-jest-testing-error-object-of-usecontext-not-defined)
 
+## JSON
+
+- [How to Use JSON Server for Front-end Development?](https://www.freecodecamp.org/news/json-server-for-frontend-development/)
+
 ## jQuery
 
 - [jQuery removeAttr() Method - Remove an HTML element attribute](https://www.w3schools.com/jquery/html_removeattr.asp)
