@@ -89,6 +89,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to parse html to React component?](https://stackoverflow.com/questions/44643424/how-to-parse-html-to-react-component)
 - [Removing bullets from unordered list](https://stackoverflow.com/questions/33075940/removing-bullets-from-unordered-list)
 - [Safari <input type="file" accept="video/*"> ignores mp4 files](https://stackoverflow.com/questions/19107685/safari-input-type-file-accept-video-ignores-mp4-files)
+- [DOCTYPE HTML. Why it is important?](https://blog.imabhinav.dev/doctype-html-why-it-is-important)
 
 ## JavaScript
 
