@@ -333,6 +333,7 @@ Helpful links and solutions to various coding problems that I come across during
 ### Puppeteer - Web Scraping
 
 - [<code>puppeteer</code>](https://www.npmjs.com/package/puppeteer)
+- [How to Capture Screenshots with Puppeteer?](https://dev.to/sagar/how-to-capture-screenshots-with-puppeteer-3mb2)
 
 ### Drag and Drop List (React)
 
