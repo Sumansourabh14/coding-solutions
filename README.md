@@ -90,6 +90,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Removing bullets from unordered list](https://stackoverflow.com/questions/33075940/removing-bullets-from-unordered-list)
 - [Safari <input type="file" accept="video/*"> ignores mp4 files](https://stackoverflow.com/questions/19107685/safari-input-type-file-accept-video-ignores-mp4-files)
 - [DOCTYPE HTML. Why it is important?](https://blog.imabhinav.dev/doctype-html-why-it-is-important)
+- [The importance of Semantic HTML](https://medium.com/adalab/the-importance-of-semantic-html-78e74fb75ff0)
 
 ## JavaScript
 
