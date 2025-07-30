@@ -91,6 +91,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Safari <input type="file" accept="video/*"> ignores mp4 files](https://stackoverflow.com/questions/19107685/safari-input-type-file-accept-video-ignores-mp4-files)
 - [DOCTYPE HTML. Why it is important?](https://blog.imabhinav.dev/doctype-html-why-it-is-important)
 - [The importance of Semantic HTML](https://medium.com/adalab/the-importance-of-semantic-html-78e74fb75ff0)
+- [How to Use ARIA Roles and Properties Effectively?](https://afixt.com/how-to-use-aria-roles-and-properties-effectively/)
 
 ## JavaScript
 
