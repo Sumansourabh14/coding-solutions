@@ -444,6 +444,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to add a style on a condition in tailwind css?](https://stackoverflow.com/questions/67383686/how-to-add-a-style-on-a-condition-in-tailwind-css)
 - [Add both !important & selector strategy for tailwind configuration](https://stackoverflow.com/questions/68527235/add-both-important-selector-strategy-for-tailwind-configuration)
 
+## TypeScript
+
+- [How do you type an error property in a catch block in TypeScript?](https://stackoverflow.com/questions/69577451/how-do-you-type-an-error-property-in-a-catch-block-in-typescript)
+
 ## VS Code
 
 - [Remove/delete unused imports and declarations: Press <code>Alt + Shift + O</code> (Windows)](https://stackoverflow.com/questions/46722701/is-there-a-way-to-remove-unused-imports-and-declarations-from-angular-2)
