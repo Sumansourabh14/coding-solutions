@@ -447,6 +447,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## TypeScript
 
 - [How do you type an error property in a catch block in TypeScript?](https://stackoverflow.com/questions/69577451/how-do-you-type-an-error-property-in-a-catch-block-in-typescript)
+- [Fix error related to "Types must be imported using a type-only import when 'verbatimModuleSyntax' is enabled"](https://github.com/uiwjs/react-codemirror/issues/634)
 
 ## VS Code
 
