@@ -375,6 +375,7 @@ Helpful links and solutions to various coding problems that I come across during
 - ["vite is not recognized ..." on "npm run dev"](https://stackoverflow.com/questions/71844271/vite-is-not-recognized-on-npm-run-dev)
 - [Correct way to push into state array](https://stackoverflow.com/questions/37435334/correct-way-to-push-into-state-array)
 - [How to post query parameters with Axios?](https://stackoverflow.com/questions/53501185/how-to-post-query-parameters-with-axios)
+- [How do you set the document title in React?](https://stackoverflow.com/questions/46160461/how-do-you-set-the-document-title-in-react)
 
 ## React Native / Expo
 
