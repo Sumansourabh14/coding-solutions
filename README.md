@@ -434,6 +434,11 @@ Helpful links and solutions to various coding problems that I come across during
 - [react-native-side-drawer](https://www.npmjs.com/package/react-native-side-drawer)
 - [react-native-root-toast (Show toast messages)](https://www.npmjs.com/package/react-native-root-toast)
 
+## SEO
+
+- [Introduction to robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
+- [Personal Website with React - Adding robots txt for SEO Optimization](https://youtu.be/gT7OPungdas?si=HI1XgfveqYmOjjxg)
+
 ## shadcn/ui
 
 - [How to hide the X at the top of the shadcn dialog box?](https://stackoverflow.com/questions/78401672/how-to-hide-the-x-at-the-top-of-the-shadcn-dialog-box#:~:text=doesn%27t%20need%20you%20to%20remove%20%3CDialogPrimitive.Close%3E%20used%20by,a%20hideClose%20prop%20to%20the%20dialogcontent%20like%20this.)
