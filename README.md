@@ -438,6 +438,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Introduction to robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
 - [Personal Website with React - Adding robots txt for SEO Optimization](https://youtu.be/gT7OPungdas?si=HI1XgfveqYmOjjxg)
+- [Links do not have descriptive text](https://developer.chrome.com/docs/lighthouse/seo/link-text/?utm_source=lighthouse&utm_medium=lr#resources)
 
 ## shadcn/ui
 
