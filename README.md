@@ -458,6 +458,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How do you type an error property in a catch block in TypeScript?](https://stackoverflow.com/questions/69577451/how-do-you-type-an-error-property-in-a-catch-block-in-typescript)
 - [Fix error related to "Types must be imported using a type-only import when 'verbatimModuleSyntax' is enabled"](https://github.com/uiwjs/react-codemirror/issues/634)
 - ['unknown' vs. 'any'](https://stackoverflow.com/questions/51439843/unknown-vs-any)
+- [TypeScript’s any vs unknown vs never: Complete Guide](https://programwithjayanth.com/posts/typescript-any-unknown-never-types/)
 
 ## VS Code
 
