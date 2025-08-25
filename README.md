@@ -95,6 +95,11 @@ Helpful links and solutions to various coding problems that I come across during
 - [The importance of Semantic HTML](https://medium.com/adalab/the-importance-of-semantic-html-78e74fb75ff0)
 - [How to Use ARIA Roles and Properties Effectively?](https://afixt.com/how-to-use-aria-roles-and-properties-effectively/)
 
+## Java
+
+- [Set up jdk17 in Windows 11](https://ansarali-edugaon.medium.com/set-up-jdk17-in-windows-11-f6c9ace6f427)
+- [Java SE 17 Archive Downloads (17.0.12 and earlier)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
 ## JavaScript
 
 - [Convert a string to a number in JavaScript](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/)
