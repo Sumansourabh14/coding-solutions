@@ -452,6 +452,10 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [How to hide the X at the top of the shadcn dialog box?](https://stackoverflow.com/questions/78401672/how-to-hide-the-x-at-the-top-of-the-shadcn-dialog-box#:~:text=doesn%27t%20need%20you%20to%20remove%20%3CDialogPrimitive.Close%3E%20used%20by,a%20hideClose%20prop%20to%20the%20dialogcontent%20like%20this.)
 
+## System Design
+
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
+
 ## Tailwind CSS
 
 - [Animated loading spinner in 60 seconds - Tailwind CSS](https://youtu.be/zKKHrG47oC4?si=8UZ8MQf6K3c5Oa3i)
