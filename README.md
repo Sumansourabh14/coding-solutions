@@ -455,6 +455,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## System Design
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
+- [Consistent Hashing Explained](https://blog.algomaster.io/p/consistent-hashing-explained)
 
 ## Tailwind CSS
 
