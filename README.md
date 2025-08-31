@@ -456,6 +456,8 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
 - [Consistent Hashing Explained](https://blog.algomaster.io/p/consistent-hashing-explained)
+- [System Design: Latency vs Throughput](https://cs.fyi/guide/latency-vs-throughput)
+- [Performance Vs Scalability](https://blog.professorbeekums.com/performance-vs-scalability/)
 
 ## Tailwind CSS
 
