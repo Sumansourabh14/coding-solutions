@@ -458,6 +458,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Consistent Hashing Explained](https://blog.algomaster.io/p/consistent-hashing-explained)
 - [System Design: Latency vs Throughput](https://cs.fyi/guide/latency-vs-throughput)
 - [Performance Vs Scalability](https://blog.professorbeekums.com/performance-vs-scalability/)
+- [Do you have too many microservices? - Five Design Attributes that can Help](https://highscalability.com/do-you-have-too-many-microservices-five-design-attributes-th/)
 
 ## Tailwind CSS
 
