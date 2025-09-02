@@ -460,6 +460,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Performance Vs Scalability](https://blog.professorbeekums.com/performance-vs-scalability/)
 - [Do you have too many microservices? - Five Design Attributes that can Help](https://highscalability.com/do-you-have-too-many-microservices-five-design-attributes-th/)
 - [How to Avoid Single Point of Failures?](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
+- [What’s the Difference Between Monolithic and Microservices Architecture?](https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/)
+- [What is a Content Delivery Network?](https://blog.algomaster.io/p/content-delivery-networks)
 
 ## Tailwind CSS
 
