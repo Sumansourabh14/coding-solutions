@@ -459,6 +459,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [System Design: Latency vs Throughput](https://cs.fyi/guide/latency-vs-throughput)
 - [Performance Vs Scalability](https://blog.professorbeekums.com/performance-vs-scalability/)
 - [Do you have too many microservices? - Five Design Attributes that can Help](https://highscalability.com/do-you-have-too-many-microservices-five-design-attributes-th/)
+- [How to Avoid Single Point of Failures?](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
 
 ## Tailwind CSS
 
