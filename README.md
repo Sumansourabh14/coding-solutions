@@ -77,6 +77,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [How do I change the URI (URL) for a remote Git repository?](https://stackoverflow.com/questions/2432764/how-do-i-change-the-uri-url-for-a-remote-git-repository)
 - [How to determine the URL that a local Git repository was originally cloned from?](https://stackoverflow.com/questions/4089430/how-to-determine-the-url-that-a-local-git-repository-was-originally-cloned-from)
 
+## Google Play Console
+
+- [View app statistics](https://support.google.com/googleplay/android-developer/answer/139628?hl=en&co=GENIE.Platform%3DAndroid)
+
 ## HTML
 
 - [How to make <code>input type="file" /</code> accept only these types?](https://stackoverflow.com/questions/17293861/how-to-make-input-type-file-accept-only-these-types)
