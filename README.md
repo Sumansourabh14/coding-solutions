@@ -388,6 +388,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [Correct way to push into state array](https://stackoverflow.com/questions/37435334/correct-way-to-push-into-state-array)
 - [How to post query parameters with Axios?](https://stackoverflow.com/questions/53501185/how-to-post-query-parameters-with-axios)
 - [How do you set the document title in React?](https://stackoverflow.com/questions/46160461/how-do-you-set-the-document-title-in-react)
+- [Vite 3.0 vs. Create React App: Comparison and migration guide](https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/)
+- [React Element vs Component](https://www.robinwieruch.de/react-element-component/)
 
 ## React Native / Expo
 
