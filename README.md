@@ -390,6 +390,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How do you set the document title in React?](https://stackoverflow.com/questions/46160461/how-do-you-set-the-document-title-in-react)
 - [Vite 3.0 vs. Create React App: Comparison and migration guide](https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/)
 - [React Element vs Component](https://www.robinwieruch.de/react-element-component/)
+- [What is the virtual DOM in React?](https://blog.logrocket.com/the-virtual-dom-react/#how-rerendering-impacts-performance)
 
 ## React Native / Expo
 
