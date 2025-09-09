@@ -129,7 +129,12 @@ Helpful links and solutions to various coding problems that I come across during
 - [Where should I put <code><script></code> tags in HTML markup?](https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup)
 - [HTML DOM Document createElement()](https://www.w3schools.com/jsref/met_document_createelement.asp)
 - [How can I add a key/value pair to a JavaScript object?](https://stackoverflow.com/a/1168814/15597327)
+- [JavaScript Prototype](https://www.javascripttutorial.net/javascript-prototype/)
 - [What is the difference between `.prototype` and `.__proto__`?](https://stackoverflow.com/questions/9959727/what-is-the-difference-between-prototype-and-proto)
+- [Understanding JavaScript Event Delegation](https://namastedev.com/blog/understanding-javascript-event-delegation-3/)
+- [What is a closure? Example use cases in JavaScript and React](https://dev.to/mattdclarke/what-is-a-closure-example-use-cases-in-javascript-and-react-2e6j)
+- [Immediately Invoked Function Expressions (IIFEs) in JavaScript: A Comprehensive Guide](https://www.curiouslychase.com/posts/immediately-invoked-function-expressions-javascript)
+- [Function Declaration vs Function Expression](https://www.freecodecamp.org/news/function-declaration-vs-function-expression/)
 
 ## Jest
 
