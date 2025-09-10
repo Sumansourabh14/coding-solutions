@@ -98,6 +98,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [DOCTYPE HTML. Why it is important?](https://blog.imabhinav.dev/doctype-html-why-it-is-important)
 - [The importance of Semantic HTML](https://medium.com/adalab/the-importance-of-semantic-html-78e74fb75ff0)
 - [How to Use ARIA Roles and Properties Effectively?](https://afixt.com/how-to-use-aria-roles-and-properties-effectively/)
+- [async vs defer attributes](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 
 ## Java
 
