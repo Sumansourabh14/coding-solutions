@@ -9,8 +9,8 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Best Practices for Naming REST API Endpoints](https://blog.dreamfactory.com/best-practices-for-naming-rest-api-endpoints/)
 - [What Is a CORS Error and How to Fix It (3 Ways)](https://www.bannerbear.com/blog/what-is-a-cors-error-and-how-to-fix-it-3-ways/)
-- [How to Write Good API Documentation
-](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
+- [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
+- [Forbidden, Unauthorized, or What Else?](https://auth0.com/blog/forbidden-unauthorized-http-status-codes/)
 
 ## Appwrite
 
@@ -400,6 +400,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Vite 3.0 vs. Create React App: Comparison and migration guide](https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/)
 - [React Element vs Component](https://www.robinwieruch.de/react-element-component/)
 - [What is the virtual DOM in React?](https://blog.logrocket.com/the-virtual-dom-react/#how-rerendering-impacts-performance)
+- [useMemo or useCallback which should I use?](https://www.reddit.com/r/reactjs/comments/1amtuv3/comment/kpoqzu6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## React Native / Expo
 
