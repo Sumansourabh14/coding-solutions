@@ -136,6 +136,9 @@ Helpful links and solutions to various coding problems that I come across during
 - [What is a closure? Example use cases in JavaScript and React](https://dev.to/mattdclarke/what-is-a-closure-example-use-cases-in-javascript-and-react-2e6j)
 - [Immediately Invoked Function Expressions (IIFEs) in JavaScript: A Comprehensive Guide](https://www.curiouslychase.com/posts/immediately-invoked-function-expressions-javascript)
 - [Function Declaration vs Function Expression](https://www.freecodecamp.org/news/function-declaration-vs-function-expression/)
+- [Deep Copy in JavaScript: A Custom Implementation](https://javascript.plainenglish.io/deep-copy-in-javascript-a-custom-implementation-6f993eedd3f2)
+- [Difference between microtask and macrotask within an event loop context](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context)
+- [JavaScript AbortController](https://www.javascripttutorial.net/web-apis/javascript-abortcontroller/)
 
 ## Jest
 
