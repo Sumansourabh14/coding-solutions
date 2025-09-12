@@ -401,6 +401,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [React Element vs Component](https://www.robinwieruch.de/react-element-component/)
 - [What is the virtual DOM in React?](https://blog.logrocket.com/the-virtual-dom-react/#how-rerendering-impacts-performance)
 - [useMemo or useCallback which should I use?](https://www.reddit.com/r/reactjs/comments/1amtuv3/comment/kpoqzu6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [How is Virtual DOM faster even when it takes additional steps to create a DOM and compare it!?](https://chatgpt.com/share/68c1a268-8d2c-8002-adcc-b05d0208d06a)
 
 ## React Native / Expo
 
