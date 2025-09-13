@@ -80,6 +80,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## Google Play Console
 
 - [View app statistics](https://support.google.com/googleplay/android-developer/answer/139628?hl=en&co=GENIE.Platform%3DAndroid)
+- [How can I check statistics to see which app versions are currently installed by users?](https://support.google.com/googleplay/android-developer/thread/317575812/how-can-i-check-statistics-to-see-which-app-versions-are-currently-installed-by-users?hl=en)
 
 ## HTML
 
