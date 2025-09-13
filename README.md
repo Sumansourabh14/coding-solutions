@@ -139,6 +139,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Deep Copy in JavaScript: A Custom Implementation](https://javascript.plainenglish.io/deep-copy-in-javascript-a-custom-implementation-6f993eedd3f2)
 - [Difference between microtask and macrotask within an event loop context](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context)
 - [JavaScript AbortController](https://www.javascripttutorial.net/web-apis/javascript-abortcontroller/)
+- [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
 
 ## Jest
 
