@@ -83,6 +83,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How can I check statistics to see which app versions are currently installed by users?](https://support.google.com/googleplay/android-developer/thread/317575812/how-can-i-check-statistics-to-see-which-app-versions-are-currently-installed-by-users?hl=en)
 - [Open Testing vs. Straight Production Launch](https://www.reddit.com/r/androiddev/comments/1it2khz/open_testing_vs_straight_production_launch/)
 - [Google Play: Beta release to Production release](https://stackoverflow.com/questions/52760808/google-play-beta-release-to-production-release)
+- [Prepare and roll out a release](https://support.google.com/googleplay/android-developer/answer/9859348?hl=en)
 
 ## HTML
 
