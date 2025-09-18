@@ -11,6 +11,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [What Is a CORS Error and How to Fix It (3 Ways)](https://www.bannerbear.com/blog/what-is-a-cors-error-and-how-to-fix-it-3-ways/)
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 - [Forbidden, Unauthorized, or What Else?](https://auth0.com/blog/forbidden-unauthorized-http-status-codes/)
+- [Learn REST API Design](https://restapitutorial.com/)
 
 ## Appwrite
 
@@ -104,6 +105,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [The importance of Semantic HTML](https://medium.com/adalab/the-importance-of-semantic-html-78e74fb75ff0)
 - [How to Use ARIA Roles and Properties Effectively?](https://afixt.com/how-to-use-aria-roles-and-properties-effectively/)
 - [async vs defer attributes](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
+- [Understanding quirks and standards modes](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Quirks_mode_and_standards_mode)
 
 ## Java
 
@@ -462,6 +464,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Error: Download manager failed to download from Status Code = 16](https://github.com/joltup/rn-fetch-blob/issues/167)
 - [Invalid value for visibility: 2](https://github.com/joltup/rn-fetch-blob/issues/191)
 - [Network Security](https://reactnative.dev/docs/security#network-security)
+- [React Native Build Process: A Step-by-Step Guide](https://medium.com/@siddhantshelake/react-native-build-process-a-step-by-step-guide-fd1d24789fc8)
 
 ### Packages for React Native
 
@@ -522,6 +525,8 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Write a Perfect Error Message](https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36#:~:text=As%20usual%2C%20the%20red%20color,contrast%20against%20its%20background%20color.)
 - [What is the difference between WCAG A, AA and AAA?](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/)
 - [The Software Architecture Handbook](https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/)
+- [What is Debugging? How to Debug Your Code for Beginners](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/)
+- [Interpreter Vs Compiler : Differences Between Interpreter and Compiler](https://www.programiz.com/article/difference-compiler-interpreter)
   
 ## WordPress
 
