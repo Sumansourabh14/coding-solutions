@@ -466,6 +466,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Invalid value for visibility: 2](https://github.com/joltup/rn-fetch-blob/issues/191)
 - [Network Security](https://reactnative.dev/docs/security#network-security)
 - [React Native Build Process: A Step-by-Step Guide](https://medium.com/@siddhantshelake/react-native-build-process-a-step-by-step-guide-fd1d24789fc8)
+- [How to Run React Native CLI App on Real Android Device](https://youtu.be/5eFRCR7S-48?si=rb9DRzPm6xPz3O-S)
 
 ### Packages for React Native
 
