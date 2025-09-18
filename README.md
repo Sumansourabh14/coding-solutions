@@ -307,6 +307,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## Packages
 
 - ['nvm' is not recognized as an internal or external command Windows](https://stackoverflow.com/questions/56112627/nvm-is-not-recognized-as-an-internal-or-external-command-windows)
+- [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm)
 
 ### FontAwesome Icons
 
