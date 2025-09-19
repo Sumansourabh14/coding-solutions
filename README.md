@@ -416,6 +416,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 ## React Native / Expo
 
+- [Should you use Expo or Bare React Native?](https://medium.com/@andrew.chester/should-you-use-expo-or-bare-react-native-8dd400f4a468)
 - [Scroll View inside view not working react native](https://stackoverflow.com/questions/38137388/scroll-view-inside-view-not-working-react-native)
 - [Applying box shadows in React Native](https://blog.logrocket.com/applying-box-shadows-in-react-native/)
 - [How to get a versionName in react-native app on Android?](https://stackoverflow.com/questions/38240859/how-to-get-a-versionname-in-react-native-app-on-android)
