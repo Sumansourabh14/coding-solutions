@@ -88,6 +88,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Google Play: Beta release to Production release](https://stackoverflow.com/questions/52760808/google-play-beta-release-to-production-release)
 - [Prepare and roll out a release](https://support.google.com/googleplay/android-developer/answer/9859348?hl=en)
 - [Reviews are not displayed in Google Play](https://stackoverflow.com/questions/70592386/reviews-are-not-displayed-in-google-play)
+- [How do I rename an app?](https://support.google.com/googleplay/android-developer/thread/281204652/how-do-i-rename-a-app?hl=en#:~:text=you%20go%20to%20your%20app%20dashboard%2C%20then%20on,but%20the%20package%20ID%20will%20remain%20the%20same.)
 
 ## HTML
 
