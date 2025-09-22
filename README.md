@@ -12,6 +12,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 - [Forbidden, Unauthorized, or What Else?](https://auth0.com/blog/forbidden-unauthorized-http-status-codes/)
 - [Learn REST API Design](https://restapitutorial.com/)
+- [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet)
 
 ## Appwrite
 
@@ -53,6 +54,7 @@ Helpful links and solutions to various coding problems that I come across during
 
 ## Git/GitHub
 
+- [Git Cheatsheet](https://cs.fyi/guide/git-cheatsheet)
 - [How to Prevent Merge Conflicts (or at least have less of them)](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 - [How to remove node_modules folder](https://gist.github.com/lmcneel/45594e550a3403d589bdcaad38138a83)
 - [What "Remote Origin Already Exists" Error Means and How To Fix It](https://www.cloudbees.com/blog/remote-origin-already-exists-error)
