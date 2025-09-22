@@ -413,6 +413,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How is Virtual DOM faster even when it takes additional steps to create a DOM and compare it!?](https://chatgpt.com/share/68c1a268-8d2c-8002-adcc-b05d0208d06a)
 - [How do you handle asynchronous data loading in React applications?](https://www.greatfrontend.com/questions/quiz/how-do-you-handle-asynchronous-data-loading-in-react-applications?practice=practice&tab=quiz)
 - [React Context API Explained with Examples](https://www.freecodecamp.org/news/react-context-api-explained-with-examples/)
+- [How to identify and fix memory leaks in react?](https://dev.to/emmanuelo/how-to-identify-and-fix-memory-leaks-in-react-3bbh)
 
 ## React Native / Expo
 
