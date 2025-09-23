@@ -473,6 +473,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [React Native Build Process: A Step-by-Step Guide](https://medium.com/@siddhantshelake/react-native-build-process-a-step-by-step-guide-fd1d24789fc8)
 - [How to Run React Native CLI App on Real Android Device](https://youtu.be/5eFRCR7S-48?si=rb9DRzPm6xPz3O-S)
 - [How to update version number of react native app](https://stackoverflow.com/questions/35924721/how-to-update-version-number-of-react-native-app)
+- [Accessibility - React Native](https://reactnative.dev/docs/accessibility)
 
 ### Packages for React Native
 
