@@ -474,6 +474,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Run React Native CLI App on Real Android Device](https://youtu.be/5eFRCR7S-48?si=rb9DRzPm6xPz3O-S)
 - [How to update version number of react native app](https://stackoverflow.com/questions/35924721/how-to-update-version-number-of-react-native-app)
 - [Accessibility - React Native](https://reactnative.dev/docs/accessibility)
+- [Getting @RNC/AsyncStorage: NativeModule: AsyncStorage is null. when running jest](https://github.com/react-native-async-storage/async-storage/issues/202)
 
 ### Packages for React Native
 
