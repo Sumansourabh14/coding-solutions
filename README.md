@@ -13,6 +13,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Forbidden, Unauthorized, or What Else?](https://auth0.com/blog/forbidden-unauthorized-http-status-codes/)
 - [Learn REST API Design](https://restapitutorial.com/)
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet)
+- [The 8 Most Widely Used API Protocols You Should Know](https://apidog.com/blog/8-api-protocol-types/)
 
 ## Appwrite
 
