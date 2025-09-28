@@ -1,7 +1,7 @@
 # Coding Solutions
 Helpful links and solutions to various coding problems that I come across during day to day coding.
 
-# AI
+## AI
 
 - [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [MCP vs RAG : Know The Key Differences](https://www.truefoundry.com/blog/mcp-vs-rag)
