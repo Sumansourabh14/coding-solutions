@@ -1,6 +1,11 @@
 # Coding Solutions
 Helpful links and solutions to various coding problems that I come across during day to day coding.
 
+# AI
+
+- [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [MCP vs RAG : Know The Key Differences](https://www.truefoundry.com/blog/mcp-vs-rag)
+
 ## Android Studio (Emulator)
 
 - ['adb' is not recognized as an internal or external command, operable program or batch file](https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or)
