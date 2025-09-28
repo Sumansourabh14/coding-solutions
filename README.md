@@ -119,6 +119,7 @@ Helpful links and solutions to various coding problems that I come across during
 ## Interview
 
 - [Tell me about an interesting project you worked on.](https://docs.google.com/document/d/1-stR7DNJ1MlM5OJ8ahQX6J76vfDz-Yesq1nB-O4XAQc/edit?usp=sharing)
+- [I Used to Suck at Coding Interviews. Then I Quadrupled My Salary.](https://brianjenney.medium.com/i-used-to-suck-at-coding-interviews-then-i-quadrupled-my-salary-9d5260389a09)
 
 ## Java
 
