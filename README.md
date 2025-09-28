@@ -116,6 +116,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [async vs defer attributes](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 - [Understanding quirks and standards modes](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Quirks_mode_and_standards_mode)
 
+## Interview
+
+- [Tell me about an interesting project you worked on.](https://docs.google.com/document/d/1-stR7DNJ1MlM5OJ8ahQX6J76vfDz-Yesq1nB-O4XAQc/edit?usp=sharing)
+
 ## Java
 
 - [Set up jdk17 in Windows 11](https://ansarali-edugaon.medium.com/set-up-jdk17-in-windows-11-f6c9ace6f427)
