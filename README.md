@@ -120,6 +120,8 @@ Helpful links and solutions to various coding problems that I come across during
 
 - [Tell me about an interesting project you worked on.](https://docs.google.com/document/d/1-stR7DNJ1MlM5OJ8ahQX6J76vfDz-Yesq1nB-O4XAQc/edit?usp=sharing)
 - [I Used to Suck at Coding Interviews. Then I Quadrupled My Salary.](https://brianjenney.medium.com/i-used-to-suck-at-coding-interviews-then-i-quadrupled-my-salary-9d5260389a09)
+- [ReactJS Scenario-Based Questions](https://www.interviewplus.ai/additional-question-types/scenario-based-questions/react-js)
+- [ReactJS Scenario-Based Questions - Answers](https://chatgpt.com/share/68da37ed-687c-8002-85eb-834e5cf223de)
 
 ## Java
 
@@ -428,6 +430,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How do you handle asynchronous data loading in React applications?](https://www.greatfrontend.com/questions/quiz/how-do-you-handle-asynchronous-data-loading-in-react-applications?practice=practice&tab=quiz)
 - [React Context API Explained with Examples](https://www.freecodecamp.org/news/react-context-api-explained-with-examples/)
 - [How to identify and fix memory leaks in react?](https://dev.to/emmanuelo/how-to-identify-and-fix-memory-leaks-in-react-3bbh)
+- [Server Side Rendering in JavaScript – SSR vs CSR Explained](https://www.freecodecamp.org/news/server-side-rendering-javascript/)
 
 ## React Native / Expo
 
