@@ -552,6 +552,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [The Software Architecture Handbook](https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/)
 - [What is Debugging? How to Debug Your Code for Beginners](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/)
 - [Interpreter Vs Compiler : Differences Between Interpreter and Compiler](https://www.programiz.com/article/difference-compiler-interpreter)
+- [Paginated vs Virtualized list](https://www.linkedin.com/pulse/paginated-vs-virtualized-list-muhammad-akram-uitof/)
   
 ## WordPress
 
