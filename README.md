@@ -53,6 +53,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [:first-child](https://css-tricks.com/almanac/selectors/f/first-child/)
 - [Responsive Text CSS](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
 - [CSS to turn image into black and white with no grays](https://stackoverflow.com/questions/52936926/css-to-turn-image-into-black-and-white-with-no-grays)
+- [CSS Browser Compatibility: Fixes & Hacks](https://tryhoverify.com/blog/css-browser-compatibility-fixes-and-hacks/)
 
 ## Firebase
 
