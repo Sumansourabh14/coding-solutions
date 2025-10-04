@@ -323,6 +323,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [Error: secretOrPrivateKey must have a value](https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value)
 - [Postman: Connect ECONNREFUSED 127.0.0.1:5005](https://stackoverflow.com/questions/70733101/postman-connect-econnrefused-127-0-0-15005)
 
+## OAuth
+
+- [Authorization Code Flow with Proof Key for Code Exchange (PKCE)](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow-with-pkce)
+
 ## Packages
 
 - ['nvm' is not recognized as an internal or external command Windows](https://stackoverflow.com/questions/56112627/nvm-is-not-recognized-as-an-internal-or-external-command-windows)
