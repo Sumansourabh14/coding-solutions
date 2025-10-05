@@ -538,6 +538,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Fix error related to "Types must be imported using a type-only import when 'verbatimModuleSyntax' is enabled"](https://github.com/uiwjs/react-codemirror/issues/634)
 - ['unknown' vs. 'any'](https://stackoverflow.com/questions/51439843/unknown-vs-any)
 - [TypeScript’s any vs unknown vs never: Complete Guide](https://programwithjayanth.com/posts/typescript-any-unknown-never-types/)
+- [TypeScript Interview Questions + Answers (With Code Examples)](https://zerotomastery.io/blog/typescript-interview-questions/)
 
 ## VS Code
 
