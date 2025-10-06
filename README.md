@@ -20,6 +20,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet)
 - [The 8 Most Widely Used API Protocols You Should Know](https://apidog.com/blog/8-api-protocol-types/)
 - [API versioning](https://www.postman.com/api-platform/api-versioning/)
+- [{JSON} Placeholder - Free fake and reliable API for testing and prototyping](https://jsonplaceholder.typicode.com/)
 
 ## Appwrite
 
