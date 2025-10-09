@@ -440,6 +440,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [React Context API Explained with Examples](https://www.freecodecamp.org/news/react-context-api-explained-with-examples/)
 - [How to identify and fix memory leaks in react?](https://dev.to/emmanuelo/how-to-identify-and-fix-memory-leaks-in-react-3bbh)
 - [Server Side Rendering in JavaScript – SSR vs CSR Explained](https://www.freecodecamp.org/news/server-side-rendering-javascript/)
+- [Stop worrying about React Re-renders so much (an overview of the react profiler with refactoring)](https://youtu.be/ISins9sgCrM?si=6hSGNvpX364fIb8z)
 
 ## React Native / Expo
 
