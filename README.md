@@ -325,6 +325,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Error: secretOrPrivateKey must have a value](https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value)
 - [Postman: Connect ECONNREFUSED 127.0.0.1:5005](https://stackoverflow.com/questions/70733101/postman-connect-econnrefused-127-0-0-15005)
 - [File Handling in NodeJS](https://youtu.be/YazJFb_i4A0?si=eAseO_gLoJGjzn66)
+- [How Versioning Works in NodeJS?](https://youtu.be/ORmB_ABimjM?si=9IIxTieijBRZQzG6)
 
 ## OAuth
 
