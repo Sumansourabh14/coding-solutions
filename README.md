@@ -89,6 +89,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)
 - [How do I change the URI (URL) for a remote Git repository?](https://stackoverflow.com/questions/2432764/how-do-i-change-the-uri-url-for-a-remote-git-repository)
 - [How to determine the URL that a local Git repository was originally cloned from?](https://stackoverflow.com/questions/4089430/how-to-determine-the-url-that-a-local-git-repository-was-originally-cloned-from)
+- [Git: Set local user.name and user.email different for each repo](https://stackoverflow.com/questions/42167345/git-set-local-user-name-and-user-email-different-for-each-repo)
 
 ## Google Play Console
 
