@@ -553,6 +553,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Prettier formatter on save not working](https://stackoverflow.com/questions/59433286/vs-code-prettier-format-on-save-doesnt-work)
 - [Collapse (fold/unfold) all methods/functions in Visual Studio Code](https://stackoverflow.com/questions/42660670/collapse-all-methods-in-visual-studio-code)
 - [How To Format Code with Prettier in Visual Studio Code?](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code)
+- [Key binding to wrap a selection with an html tag in VSCode](https://stackoverflow.com/questions/37421335/key-binding-to-wrap-a-selection-with-an-html-tag-in-vscode)
 
 ---
 
