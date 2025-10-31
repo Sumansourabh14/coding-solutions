@@ -121,6 +121,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to Use ARIA Roles and Properties Effectively?](https://afixt.com/how-to-use-aria-roles-and-properties-effectively/)
 - [async vs defer attributes](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 - [Understanding quirks and standards modes](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Quirks_mode_and_standards_mode)
+- [Embed YouTube video - Refused to display in a frame because it set 'X-Frame-Options' to 'SAMEORIGIN'](https://stackoverflow.com/a/25661346)
 
 ## Interview
 
