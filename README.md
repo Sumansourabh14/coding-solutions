@@ -58,6 +58,10 @@ Helpful links and solutions to various coding problems that I come across during
 - [CSS Browser Compatibility: Fixes & Hacks](https://tryhoverify.com/blog/css-browser-compatibility-fixes-and-hacks/)
 - [How can I style even and odd elements?](https://stackoverflow.com/questions/5080699/how-can-i-style-even-and-odd-elements)
 
+## Database
+
+- [Understanding Redis Database: What It Is and How It Works](https://whatisdatabase.com/understanding-redis-database-what-it-is-and-how-it-works)
+
 ## Firebase
 
 - [Upload Images / Files to Firebase In React - Firebase V9 File Upload Tutorial](https://youtu.be/YOAeBSCkArA?si=b9sa2UGkd1VcsJyx)
