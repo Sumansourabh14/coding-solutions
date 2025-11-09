@@ -95,6 +95,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [How to determine the URL that a local Git repository was originally cloned from?](https://stackoverflow.com/questions/4089430/how-to-determine-the-url-that-a-local-git-repository-was-originally-cloned-from)
 - [Git: Set local user.name and user.email different for each repo](https://stackoverflow.com/questions/42167345/git-set-local-user-name-and-user-email-different-for-each-repo)
 - [Delete username from a Git repository](https://stackoverflow.com/a/33638880)
+- [Creating a branch to work on an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-a-branch-for-an-issue)
 
 ## Google Play Console
 
@@ -551,6 +552,7 @@ Helpful links and solutions to various coding problems that I come across during
 - ['unknown' vs. 'any'](https://stackoverflow.com/questions/51439843/unknown-vs-any)
 - [TypeScript’s any vs unknown vs never: Complete Guide](https://programwithjayanth.com/posts/typescript-any-unknown-never-types/)
 - [TypeScript Interview Questions + Answers (With Code Examples)](https://zerotomastery.io/blog/typescript-interview-questions/)
+- [Next.js: "Cannot find module or type declarations for side-effect import of './globals.css'" ts(2882)](https://stackoverflow.com/questions/79775796/next-js-cannot-find-module-or-type-declarations-for-side-effect-import-of-g)
 
 ## VS Code
 
