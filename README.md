@@ -544,6 +544,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Skeleton in Tailwind CSS](https://tailwindcss.com/docs/animation)
 - [How to add a style on a condition in tailwind css?](https://stackoverflow.com/questions/67383686/how-to-add-a-style-on-a-condition-in-tailwind-css)
 - [Add both !important & selector strategy for tailwind configuration](https://stackoverflow.com/questions/68527235/add-both-important-selector-strategy-for-tailwind-configuration)
+- [Tailwind: !important & Selector Guide](https://tailkits.com/blog/tailwind-important-selector/)
 
 ## TypeScript
 
