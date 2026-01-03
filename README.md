@@ -554,6 +554,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [TypeScript’s any vs unknown vs never: Complete Guide](https://programwithjayanth.com/posts/typescript-any-unknown-never-types/)
 - [TypeScript Interview Questions + Answers (With Code Examples)](https://zerotomastery.io/blog/typescript-interview-questions/)
 - [Next.js: "Cannot find module or type declarations for side-effect import of './globals.css'" ts(2882)](https://stackoverflow.com/questions/79775796/next-js-cannot-find-module-or-type-declarations-for-side-effect-import-of-g)
+- [Cannot use JSX unless the '--jsx' flag is provided](https://stackoverflow.com/questions/50432556/cannot-use-jsx-unless-the-jsx-flag-is-provided)
 
 ## VS Code
 
