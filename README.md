@@ -176,6 +176,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [JavaScript AbortController](https://www.javascripttutorial.net/web-apis/javascript-abortcontroller/)
 - [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
 - [What is currying and how does it work?](https://www.greatfrontend.com/questions/quiz/what-is-currying-and-how-does-it-work?practice=practice&tab=quiz)
+- [Difference between Return and Break statements](https://stackoverflow.com/questions/6620949/difference-between-return-and-break-statements)
 
 ## Jest
 
