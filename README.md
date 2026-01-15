@@ -96,6 +96,7 @@ Helpful links and solutions to various coding problems that I come across during
 - [Git: Set local user.name and user.email different for each repo](https://stackoverflow.com/questions/42167345/git-set-local-user-name-and-user-email-different-for-each-repo)
 - [Delete username from a Git repository](https://stackoverflow.com/a/33638880)
 - [Creating a branch to work on an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-a-branch-for-an-issue)
+- [How to resolve fatal: Authentication failed for git (bitbucket)](https://stackoverflow.com/questions/52778467/how-to-resolve-fatal-authentication-failed-for-git-bitbucket)
 
 ## Google Play Console
 
